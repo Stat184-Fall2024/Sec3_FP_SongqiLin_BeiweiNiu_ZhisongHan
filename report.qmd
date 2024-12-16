@@ -1,6 +1,6 @@
 ---
 title: "A Report of College Students Economic Situations"
-author: "   "
+author: "Songqi Lin, Beiwei Niu, ZHisong Han   "
 date: "`r Sys.Date()`"
 output: 
   pdf_document: 
