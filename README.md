@@ -132,3 +132,4 @@ In the last week of classes (Dec. 11th and 13th), each group will give a short p
 + __We're really stuck on what to do. Help?__
   - What shared interests does your team have? Do you all like a particular sport? Do you like a particular type of music? Do you like to play video games?
   - Come talk to your instructor. We can help you come up with an idea.
+111
