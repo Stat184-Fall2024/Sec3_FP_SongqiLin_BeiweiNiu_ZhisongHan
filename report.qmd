@@ -32,6 +32,14 @@ The education situation of college students, their consumption during school and
 
 The four data chosen for this project are all in a manipulable csv format. Importantly, the data are all open-source, available from papers or open-source data sites, and the data sources and references have been signed in this project. In summary, this data satisfies the FAIR and/or CARE principles.
 
+### Data Visualization
+```{r plot-example, echo=TRUE}
+# Placeholder for a simple visualization
+years <- 2010:2022
+salaries <- c(45000, 46000, 47000, 49000, 50000, 51000, 52000, 53000, 55000, 57000, 58000, 60000, 61000)
+plot(years, salaries, type = 'o', col = 'blue', xlab = 'Year', ylab = 'Graduate Salaries', main = 'Graduate Salaries Over Time')
+```
+
 # Debt and Cost Analysis
 
 ## Data Description and Preprocessing
