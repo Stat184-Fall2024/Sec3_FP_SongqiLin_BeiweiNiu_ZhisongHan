@@ -1,0 +1,1001 @@
+UNITID,INSTNM,YEAR,STABBR,PREDDEG,CONTROL,LO_INC_DEBT_MDN,MD_INC_DEBT_MDN,HI_INC_DEBT_MDN,CDR3,FAMINC
+365204,Vista College,2012,TX,1,3,9500,11833.5,8365,0.055,17472.553858
+485078,Trine University-Arizona Regional Campus,2014,AZ,3,2,13000,19000,17000,0.082,69052.183374
+140872,Reinhardt University,2016,GA,3,2,12070,12137.5,11000,0.124,55126.078947
+210076,Pioneer Pacific College,2010,OR,1,3,14248.5,14250,11997,NULL,28583.511515
+243133,University of Puerto Rico-Bayamon,2014,PR,3,1,4606.5,PrivacySuppressed,PrivacySuppressed,0.092,22182.561044
+206011,Terra State Community College,2010,OH,2,1,3591,4496,4984,NULL,25810.702901
+420404,ITT Technical Institute-Getzville,2012,NY,2,3,9500,11500,10996.5,0.286,23408.681196
+433420,California Aeronautical University,2018,CA,2,3,8270,8701,6931,0.064,NULL
+136145,North Florida College,2012,FL,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,20118.555404
+431187,Bristol Technical Education Center,2016,CT,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,27757.6875
+460145,Illinois Media School-Chicago Campus,2012,IL,1,3,9500,9500,5500,0.095,29733.218447
+458858,Empire Beauty School-Speedway,2012,IN,1,3,9420,10191.5,7344,0.175,20698.580838
+145424,Hair Professionals Career College,2012,IL,1,3,7917,PrivacySuppressed,PrivacySuppressed,0.046,22451.933333
+407577,Scioto County Career Technical Center,2010,OH,1,1,6333,7000,5500,NULL,24623.484018
+221050,Tennessee College of Applied Technology-Morristown,2010,TN,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,19020.760917
+218195,Kenneth Shuler School of Cosmetology and Nails-Columbia,2012,SC,1,3,6333,6493,5500,0.137,20177.923221
+209700,Phagans School of Hair Design,2016,OR,1,3,14734,12000,12000,0.038,30098.563981
+444307,Empire Beauty School-West Mifflin,2010,PA,1,3,8639.5,8100,8099,NULL,20248.26087
+235097,Eastern Washington University,2010,WA,3,1,11648,11000,10097.5,NULL,50309.904017
+119359,Everest College-Reseda,2012,CA,1,3,9500,9500,8755.5,0.192,16471.238327
+407601,Northwest Technology Center-Fairview,2016,OK,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,18423.74359
+202356,Cuyahoga Community College District,2012,OH,2,1,3500,3500,3500,0.23,22464.038784
+107099,Hot Springs Beauty College,2016,AR,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.115,17240.298246
+461351,Manhattan Institute,2016,NY,1,3,5500,PrivacySuppressed,PrivacySuppressed,0.203,12872.813043
+139764,Georgia Southwestern State University,2020,GA,3,1,11115,11750,10090,0.0470,NULL
+363633,Luna Community College,2020,NM,2,1,3623,PrivacySuppressed,PrivacySuppressed,0.2500,NULL
+240709,Cheeks Beauty Academy,2010,WY,1,3,6940.5,PrivacySuppressed,PrivacySuppressed,NULL,23185.423077
+113218,Cuyamaca College,2012,CA,2,1,3500,PrivacySuppressed,PrivacySuppressed,0.283,14129.13389
+459152,Preferred College of Nursing-Los Angeles,2010,CA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,28400.045113
+37728102,Nuvani Institute-North Campus,2016,TX,0,3,3500,PrivacySuppressed,PrivacySuppressed,0.111,22420.040462
+177834,A T Still University of Health Sciences,2020,MO,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0030,NULL
+241182,Antilles School of Technical Careers,2010,PR,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,11189.453488
+212230,Empire Beauty School-Lebanon,2018,PA,1,3,8531,8028,8068,0.143,NULL
+481410,Yeshiva Gedolah Kesser Torah,2014,NY,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,33521.03125
+442152,University of Phoenix-Atlanta Campus,2012,GA,3,3,5821,14438,16813,0.26,22658.288176
+117168,Laguna College of Art and Design,2012,CA,3,2,17958,15250,19250,0.033,62644.189076
+449898,South University-Tampa,2018,FL,3,3,12728,15278,14833,0.116,NULL
+18303501,New Hampshire Institute for Therapeutic Arts,2016,ME,0,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.107,47367.375
+449728,ATA College,2012,OK,1,3,16910,PrivacySuppressed,PrivacySuppressed,0.173,31012.576923
+451884,National American University-Wichita,2012,KS,2,3,6079.5,9291,9500,0.246,19481.036163
+441681,Centro de Capacitacion y Asesoramiento Vetelba,2012,PR,1,2,NULL,NULL,NULL,NULL,618.92105263
+182999,New England School of Hair Design,2020,NH,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0900,NULL
+380456,Paul Mitchell the School-Provo,2010,UT,1,3,9500,9500,9833,NULL,39930.668653
+154101,Northwestern College,2016,IA,3,2,22000,21636,15334.5,0.02,85952.141649
+241906,Emma's Beauty Academy-Mayaguez,2020,PR,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+447342,Regency Beauty Institute-Ridgedale,2012,MN,1,3,9500,9000,8375,0.097,22716.593006
+467535,Regency Beauty Institute-El Paso,2014,TX,1,3,9500,9715,8375,0.141,22825.140432
+166629,University of Massachusetts-Amherst,2020,MA,3,1,20000,21250,19500,0.0190,NULL
+475370,Virginia College-Columbus,2014,GA,1,3,9500,12000,12000,0.16,18175.418291
+115409,Harvey Mudd College,2014,CA,3,2,25000,25435,23000,0,117696.39614
+154095,University of Northern Iowa,2018,IA,3,1,15240,16000,15999,0.029,NULL
+148335,Robert Morris University Illinois,2018,IL,3,2,12500,15667,16449,0.089,NULL
+153746,La James International College-Cedar Falls,2018,IA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.072,NULL
+228705,Texas A & M University-Kingsville,2018,TX,3,1,15000,14626,13669,0.087,NULL
+187602,De Wolff College Hair Styling and Cosmetology,2016,NM,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.288,16520.222222
+443535,ITT Technical Institute-Hilliard,2014,OH,2,3,9956,14950,15720,0.188,24279.436364
+193399,College of Mount Saint Vincent,2016,NY,3,2,25000,23850.5,25000,0.071,51007.868757
+237543,Mercer County Technical Education Center,2018,WV,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+159647,Louisiana Tech University,2014,LA,3,1,11000,11280,12000,0.07,64949.588446
+216223,The Beauty Institute,2016,PA,1,3,9739,PrivacySuppressed,PrivacySuppressed,0.017,29394.933962
+460011,Kenneth Shuler School of Cosmetology-Florence,2018,SC,1,3,6512,6333,5500,0.048,NULL
+101028,Chattahoochee Valley Community College,2016,AL,2,1,7000,5802,6417,0.17,26584.324786
+491659,ICOHS College,2020,CA,1,2,6650,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+414063,Artistic Academy of Hair Design,2020,NJ,1,3,5500,5094,5500,0.1000,NULL
+174747,College of Saint Benedict,2020,MN,3,2,22667,22750,23252,0.0150,NULL
+453817,Ohio Technical College-PowerSport Institute,2012,OH,1,3,13000,12000,12000,0.241,41744.612651
+455293,Cutter's Edge School of Cosmetology,2012,OK,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.272,18987.625
+189848,Cazenovia College,2010,NY,3,2,11125,13922,14762,NULL,64279.330289
+457651,CenterPoint Massage & Shiatsu Therapy School & Clinic,2020,MN,2,3,15094,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+102076,Snead State Community College,2020,AL,2,1,5750,6875,6956,0.1050,NULL
+148982,Spertus College,2014,IL,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.024,NULL
+199962,Wingate University,2016,NC,3,2,14095,15613,12000,0.043,67390.666667
+44867302,Rasmussen University-Romeoville/Joliet,2010,IL,0,3,6297,6334,6334,NULL,27709.369487
+149028,Saint Anthony College of Nursing,2012,IL,3,2,25000,18900,15000,0.025,52928.974026
+217891,Clinton College,2020,SC,2,2,11954,PrivacySuppressed,PrivacySuppressed,0.2730,NULL
+133021,Chipola College,2018,FL,2,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.041,NULL
+476063,Tulsa Welding School-Jacksonville,2018,FL,1,3,7125,6195,5500,0.083,NULL
+214476,Heritage Valley Kennedy School of Nursing,2016,PA,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.068,58789.792453
+162982,L'Academie de Cuisine,2012,MD,1,3,20000,20000,12000,0.093,58651.944444
+460659,Cambridge Junior College-Woodland,2012,CA,1,3,9500,PrivacySuppressed,PrivacySuppressed,0.036,20229.187817
+198367,Craven Community College,2016,NC,2,1,6000,3500,3500,0.253,23802.806735
+251260,Southern Union State Community College,2012,AL,2,1,3500,3500,4500,0.192,29272.65582
+246415,UCAS University of Cosmetology Arts & Sciences-San Antonio 410,2010,TX,1,3,5800,PrivacySuppressed,PrivacySuppressed,NULL,20892.584158
+481094,Sotheby's Institute of Art-NY,2016,NY,4,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,NULL
+149499,Tri-County Beauty Academy,2012,IL,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.187,55181
+226134,Laredo College,2014,TX,2,1,2333,2333.5,2332,0.19,20284.627778
+489414,Institute of Beauty Occupations and Technology Course-San Sebastian,2018,PR,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+188429,Adelphi University,2012,NY,3,2,19450.5,19000,16268,0.059,74273.919714
+16947907,Davenport University-Midland Location,2018,MI,0,2,18000,15750,14197,0.085,NULL
+233037,Paul D Camp Community College,2018,VA,1,1,4750,5500,5500,0.258,NULL
+461704,Capilo School of Hair Design,2012,ME,1,3,5500,PrivacySuppressed,PrivacySuppressed,0,25298.78744
+439020,Midwest College of Oriental Medicine-Skokie,2014,IL,4,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,60212.456522
+441900,Nevada State College,2010,NV,3,1,8916.5,7233,8967,NULL,37969.981752
+218520,Piedmont Technical College,2012,SC,2,1,4750,4750,3786,0.197,21108.235321
+227191,North Lake College,2018,TX,2,1,6683,6500,5500,0.127,NULL
+125718,Westminster Theological Seminary in California,2010,CA,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+242130,ICPR Junior College-Arecibo,2014,PR,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,5838.8883952
+444237,Everest Institute-Detroit,2014,MI,1,3,9500,9500,7914.5,0.179,17762.138338
+419703,Automeca Technical College-Bayamon,2014,PR,1,3,1750,PrivacySuppressed,PrivacySuppressed,0.23,11220.423879
+227368,The University of Texas Rio Grande Valley,2012,TX,3,1,5609,5775,5500,0.151,29100.473325
+459471,John Paolo's Xtreme Beauty Institute-Goldwell Product Artistry,2012,NY,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,25254.097561
+11835602,Marinello School of Beauty-Whittier,2014,CA,0,3,7952,10012.5,9833,0.242,18665.103781
+110316,California Institute of Integral Studies,2010,CA,3,2,16748.5,PrivacySuppressed,PrivacySuppressed,NULL,29585.123077
+119067,Monterey Peninsula College,2016,CA,2,1,6000,4620.5,5265.5,0.203,24803.080112
+367103,Interactive College of Technology-Newport,2012,KY,1,3,4585,PrivacySuppressed,PrivacySuppressed,0.024,14906.322825
+450614,Empire Beauty School-Concord,2012,NC,1,3,9999,10599.5,10050,0.146,20059.171561
+214272,Neumann University,2012,PA,3,2,14590,13250,17500,0.093,65551.077069
+165556,Lincoln Technical Institute-Somerville,2014,MA,1,3,8389,8830,6855,0.166,24170.706747
+478953,Bellus Academy,2018,KS,1,3,8463,8749,6650,0.043,NULL
+101912,Oakwood University,2016,AL,3,2,25500,27000,26000,0.147,50868.943834
+17355902,M State - Moorhead Campus,2018,MN,0,1,9500,8438,6500,0.122,NULL
+182290,University of Nevada-Reno,2010,NV,3,1,7946.5,7500,7000,NULL,56485.917065
+198190,Carolina School of Broadcasting,2010,NC,1,3,8202,PrivacySuppressed,PrivacySuppressed,NULL,34812.844444
+153083,Capri College-Cedar Rapids,2012,IA,1,3,7333,9500,12000,0.16,41243.92
+192703,Manhattan College,2010,NY,3,2,14562.5,17125,15000,NULL,88920.3227
+117113,Argosy University-The Art Institute of California-San Diego,2012,CA,3,3,5500,6334,6308,0.158,24936.118166
+175607,Delta Beauty College,2010,MS,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,7937.2680412
+240718,WyoTech,2010,WY,1,3,10494,7599,6800,NULL,38634.924403
+460756,Hawaii Medical College,2018,HI,1,3,9053,8028,5500,0.17,NULL
+459000,Empire Beauty School-S Memphis,2014,TN,1,3,7770,8630.5,6291,0.105,21662.09778
+211343,Butler County Community College,2016,PA,2,1,3500,5500,5500,0.121,38821.830823
+176789,Calvary University,2012,MO,3,2,9470,PrivacySuppressed,PrivacySuppressed,0.055,39524.96732
+386153,Seminar L'moros Bais Yaakov,2016,NY,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,29832.429257
+248882,National American University-Albuquerque,2014,NM,3,3,9500,13271,13086.5,0.206,18879.034266
+183211,Rivier University,2012,NH,3,2,16000,14875,19500,0.059,69545.120211
+232609,University of Lynchburg,2010,VA,3,2,16832.5,17500,13000,NULL,85558.249788
+433563,Spencerian College-Lexington,2014,KY,2,3,9500,12380,11290,0.204,28533.102305
+155335,Newman University,2012,KS,3,2,13095.5,12500,13566.5,0.056,51176.427578
+224244,Dallas Christian College,2016,TX,3,2,13250,12500,11000,0.119,56344.104651
+442213,Birthwise Midwifery School,2016,ME,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.045,45180.564103
+15098710,Ivy Tech Community College-Richmond,2014,IN,0,1,5465,5500,5500,0.225,26722.368467
+451228,MyComputerCareer at Indianapolis,2016,IN,1,3,9500,9500,5500,0.309,36655.327273
+169503,David Pressley School of Cosmetology,2018,MI,1,3,6333,6968,8177,0.079,NULL
+201159,Auburn Career Center,2012,OH,1,1,9500,PrivacySuppressed,PrivacySuppressed,0,29051.970803
+365763,Morris County Vocational School District,2016,NJ,1,1,7373.5,PrivacySuppressed,PrivacySuppressed,0.125,47182.833333
+212911,Haverford College,2016,PA,3,2,7207,7600,15000,0,95317.093633
+20651601,Winebrenner Theological Seminary -,2018,OH,0,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.023,NULL
+167835,Smith College,2010,MA,3,2,17842.5,18125,17750,NULL,89005.771008
+212568,Aria Health School of Nursing,2014,PA,1,2,26205,21769.5,18923,0.034,64217.418182
+461768,Atelier Esthetique Institute of Esthetics,2014,NY,1,3,5846,PrivacySuppressed,PrivacySuppressed,0.106,22498.625514
+127839,IBMC College,2012,CO,2,3,13000,10661,11102,0.271,24559.012072
+446516,Rosslyn Training Academy of Cosmetology,2018,PR,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+149310,Taylor Business Institute,2014,IL,2,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.176,8781.2682927
+171465,Paul Mitchell the School-Escanaba,2016,MI,1,3,9833,9833,9833,0.081,43188.458844
+437103,Baton Rouge Community College,2012,LA,2,1,3500,3500,3500,0.279,26765.358119
+483610,Sutter Beauty College,2016,CA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,18442.452632
+220792,Meharry Medical College,2010,TN,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,5998.3859649
+204778,Ohio State School of Cosmetology-Canal Winchester,2014,OH,1,3,5700,7750,12000,0.115,30144.744565
+210100,Springfield College of Beauty,2010,OR,1,3,9500,PrivacySuppressed,PrivacySuppressed,NULL,17553.6
+188687,American Academy McAllister Institute of Funeral Service,2020,NY,2,2,10800,11750,11000,0.0900,NULL
+129215,Eastern Connecticut State University,2010,CT,3,1,14250,13625,11000,NULL,78191.599456
+240480,University of Wisconsin-Stevens Point,2014,WI,3,1,13807,19266,17076,0.032,67280.367566
+481508,Paul Mitchell the School-Jersey Shore,2020,NJ,1,3,13000,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+183105,White Mountains Community College,2010,NH,2,1,7975.5,8125,5500,NULL,32209.661745
+45776701,National Career Institute - Jersey City Branch,2018,NJ,0,3,6756,PrivacySuppressed,PrivacySuppressed,0.285,NULL
+183804,Beth Medrash Govoha,2012,NJ,3,2,5500,PrivacySuppressed,PrivacySuppressed,0.036,16477.365737
+102270,Stillman College,2010,AL,3,2,12250,9500,9500,NULL,32236.60223
+134945,Jacksonville University,2010,FL,3,2,10500,9500,8334,NULL,59918.177021
+178420,University of Missouri-St Louis,2016,MO,3,1,18931.5,15475,14732,0.067,45677.811197
+198251,Central Carolina Community College,2018,NC,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+11046803,Alliant International University-San Francisco,2016,CA,0,3,5000,5000,5816,0.039,31048.253165
+485810,K & G 5 Star Barber College,2018,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.483,NULL
+443270,Southeastern College-Jacksonville,2016,FL,1,3,14440,PrivacySuppressed,PrivacySuppressed,NULL,32692.410959
+211981,Delaware Valley University,2012,PA,3,2,12500,17500,15000,0.075,78102.894788
+207342,University of Oklahoma-Health Sciences Center,2016,OK,3,1,15000,16000,15000,0.043,74741.005346
+458283,Brightwood College-Indianapolis,2014,IN,1,3,8802,7905.5,6956,0.177,21018.278488
+193186,Midway Paris Beauty School,2020,NY,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+131876,Trinity Washington University,2018,DC,3,2,21125,20000,17183,0.138,NULL
+20306702,Hebrew Union College-Jewish Institute of Religion-Los Angeles,2020,CA,0,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0100,NULL
+488369,Premier Barber Institute,2020,PA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.1370,NULL
+101541,Judson College,2018,AL,3,2,15250,14861,10375,0.177,NULL
+480888,CyberTex Institute of Technology,2020,TX,1,3,6776,6819,5040,0.1500,NULL
+437635,The College of Health Care Professions-Austin,2018,TX,1,3,8590,5421,5271,0.161,NULL
+240329,University of Wisconsin-La Crosse,2016,WI,3,1,16120,19000,18296.5,0.02,89257.401682
+217156,Brown University,2016,RI,3,2,9718,15763,17000,0.017,107609.6323
+198871,Louisburg College,2010,NC,2,2,9257.5,6000,6750,NULL,36578.484083
+13247101,Barry University Law School,2016,FL,0,2,20522,20000,15000,0.075,41121.032638
+47503315,Relay Graduate School of Education - California,2018,CA,0,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.032,NULL
+17706517,Columbia College - Springfield,2016,MO,0,2,12891,13502.5,12435.5,0.149,33448.149011
+447953,SUM Bible College and Theological Seminary,2012,CA,3,2,9400,6334,11429.5,0.2,34486.684211
+118958,Modern Beauty Academy,2010,CA,1,3,3079,PrivacySuppressed,PrivacySuppressed,NULL,21081.369565
+441830,Healing Mountain Massage School,2010,UT,1,3,5240,PrivacySuppressed,PrivacySuppressed,NULL,31446.721649
+45775802,Park West Barber School,2012,NC,0,3,9500,PrivacySuppressed,PrivacySuppressed,0.666,11748.485507
+152637,Vincennes University,2010,IN,2,1,6940.5,8744,6603,NULL,38941.077505
+212382,Empire Beauty School-Harrisburg,2014,PA,1,3,6613,8091.5,7776.5,0.13,19736.460285
+125231,Walden University,2014,MN,3,3,6945,9650,10500,0.068,40570.497476
+368443,Hussian College-Daymar College Clarksville,2020,TN,2,3,9351,10487,12084,0.1970,NULL
+153658,University of Iowa,2016,IA,3,1,13098,16500,17538,0.027,88575.421415
+175494,Chris Beauty College,2014,MS,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,16806.413793
+190761,Dominican University New York,2014,NY,3,2,14000,16250,17000,0.062,63431.260188
+461777,Ashdown College of Health Sciences,2012,CA,2,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,27950.12963
+217077,YTI Career Institute-York,2020,PA,1,3,9500,9500,10083,0.1110,NULL
+189097,Barnard College,2010,NY,3,2,10250,13625,14500,NULL,99417.91
+215992,Laurel Technical Institute,2010,PA,2,3,6477,PrivacySuppressed,PrivacySuppressed,NULL,20929.116114
+454759,Borner's Barber College,2018,CA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+432524,Delaware College of Art and Design,2010,DE,2,2,12000,12000,10250,NULL,59840.213636
+414966,Phillips Theological Seminary,2014,OK,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.079,PrivacySuppressed
+230728,Utah State University,2014,UT,3,1,6954,6500,5699,0.05,48782.058984
+237109,Yakima Valley College,2018,WA,2,1,9500,7051,6313,0.149,NULL
+211893,Curtis Institute of Music,2018,PA,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.043,NULL
+388520,College of Biblical Studies-Houston,2018,TX,3,2,12820,17114,18132,0.098,NULL
+167297,North Bennet Street School,2016,MA,1,2,9500,12492,9500,0.051,49263.320388
+443979,PCI Academy-Plymouth,2020,MN,1,3,5277,5504,3666,0.0400,NULL
+431716,Ocean County Vocational-Technical School,2018,NJ,1,1,6000,5500,5500,0.137,NULL
+204769,The Spa School,2012,OH,1,3,6105,7916,7389,0.152,37771.074074
+153542,UnityPoint Health-Des Moines School of Radiologic Technology,2016,IA,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,31528.083333
+448239,Careers Unlimited,2018,UT,3,3,32896,30396,19937,0,NULL
+138558,Abraham Baldwin Agricultural College,2018,GA,2,1,9250,8000,7250,0.173,NULL
+446613,W L Bonner College,2016,SC,1,2,NULL,NULL,NULL,NULL,NULL
+156125,Wichita State University,2020,KS,3,1,15303,14304,14000,0.0560,NULL
+475325,Milan Institute-Las Vegas,2020,NV,1,3,6333,5500,5500,0.1010,NULL
+156648,Elizabethtown Community and Technical College,2018,KY,1,1,6757,6210,5500,0.187,NULL
+448442,ITT Technical Institute-Charlotte South,2014,NC,2,3,9956,14950,15720,0.188,24279.436364
+448585,National American University-Zona Rosa,2012,MO,2,3,6079.5,9291,9500,0.246,19481.036163
+183114,River Valley Community College,2010,NH,1,1,9500,9500,5500,NULL,35491.485755
+216278,Susquehanna University,2020,PA,3,2,27000,27000,27000,0.0330,NULL
+240426,University of Wisconsin-Superior,2018,WI,3,1,14578,15000,13506,0.051,NULL
+407391,Capri Institute of Hair Design-Brick,2018,NJ,1,3,5071,5500,4677,0.063,NULL
+101161,Coastal Alabama Community College,2020,AL,2,1,5746,6261,5500,0.1260,NULL
+146472,College of Lake County,2020,IL,1,1,6098,4920,5000,0.0940,NULL
+458414,Drake College of Business-Newark,2014,NJ,1,3,9500,PrivacySuppressed,PrivacySuppressed,NULL,6788.9397071
+459462,SAE Institute of Technology-New York,2016,NY,1,3,5500,5500,5500,0.272,31654.367347
+219709,Belmont University,2020,TN,3,2,18749,18605,16750,0.0250,NULL
+118161,Lytles Redwood Empire Beauty College,2020,CA,1,3,6333,6333,10555,0.0290,NULL
+226860,William Edge Institute,2018,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+215062,University of Pennsylvania,2020,PA,3,2,12500,13167,15000,0.0090,NULL
+177144,Culver-Stockton College,2010,MO,3,2,14187.5,14000,10250,NULL,54522.037109
+135771,Beauty Schools of America-Miami,2016,FL,1,3,9500,9500,6144,0.213,12552.04701
+196149,SUNY Cortland,2020,NY,3,1,18250,17500,17250,0.0350,NULL
+487320,Texas State Technical College,2020,TX,2,1,6399,5500,5500,0.0670,NULL
+480532,Ross Medical Education Center-Ontario,2016,OH,1,3,9500,9357,5500,0.208,27520.192989
+421665,Cadillac Institute of Cosmetology,2010,MI,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,17695.454545
+168847,Baker College,2012,MI,2,2,6875,8796,8100,0.191,26976.446234
+201539,Canton City Schools Adult Career and Technical Education,2014,OH,1,1,7300,PrivacySuppressed,PrivacySuppressed,0.106,18679.33871
+475200,Whitworth University-Adult Degree Programs,2020,WA,3,2,19724,19500,15750,0.0140,NULL
+384236,UEI College-Ontario,2016,CA,1,3,9500,9500,5500,0.171,16281.634572
+371928,Modern Technology School,2014,CA,1,3,12356,14166,15625,0.102,27191.566845
+491181,Galen College of Nursing-ARH,2018,KY,2,3,15800,16500,15800,0.08,NULL
+101675,Miles College,2020,AL,3,2,16500,14250,15000,0.1140,NULL
+451741,CEM College-Bayamon,2020,PR,1,3,3668,PrivacySuppressed,PrivacySuppressed,0.0460,NULL
+172051,Saginaw Valley State University,2018,MI,3,1,18915,20418,17500,0.081,NULL
+180948,Chadron State College,2010,NE,3,1,5500,5815,7250,NULL,46710.507018
+385619,Everglades University,2010,FL,3,2,10500,16182,23125,NULL,30965.055507
+149842,William Rainey Harper College,2020,IL,1,1,8065,5500,5500,0.0780,NULL
+237987,West Virginia Junior College-Charleston,2018,WV,2,3,5901,7901,10945,0.02,NULL
+153108,Central College,2014,IA,3,2,25000,27000,23250,0.031,83612.552749
+170541,Kalamazoo Valley Community College,2018,MI,2,1,5052,5500,5139,0.197,NULL
+376288,Institucion Chaviano de Mayaguez,2010,PR,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,2579.9883268
+198516,Elon University,2016,NC,3,2,19000,19500,19500,0.017,142286.66811
+133979,Florida Memorial University,2014,FL,3,2,19000,18500,13500,0.17,26376.784091
+212382,Empire Beauty School-Harrisburg,2016,PA,1,3,8157.5,8099.5,8028,0.121,19866.442734
+428170,Southeastern College-West Palm Beach,2010,FL,1,3,9783,11409,9500,NULL,26139.832335
+166939,Mount Holyoke College,2016,MA,3,2,20000,22000,18250,0.011,83742.3229
+107220,Career Academy of Hair Design,2020,AR,1,3,6333,5481,5857,0.1520,NULL
+44378402,Strayer University-King of Prussia Campus,2010,PA,0,3,6334,6334,9466,NULL,25442.650206
+210270,Umpqua Community College,2014,OR,2,1,5346,5250,5500,0.254,22001.199697
+406149,Sarasota School of Massage Therapy,2012,FL,1,3,7705,PrivacySuppressed,PrivacySuppressed,0.102,20868.51875
+456065,Paul Mitchell the School-Cleveland,2012,OH,1,3,11302,9833,8749.5,0,29436.559809
+11046802,Alliant International University-Los Angeles,2012,CA,0,2,2000,2000,3375,0.044,21435.814419
+233754,Virginia Peninsula Community College,2012,VA,1,1,4750,3655,4000,0.183,25880.715447
+12268513,San Joaquin Valley College - San Diego,2018,CA,0,3,9500,9500,9500,0.214,NULL
+234173,Virginia Wesleyan University,2012,VA,3,2,12750,15000,13000,0.136,64953.299255
+369695,Sebring Career Schools-Houston,2020,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.3380,NULL
+459107,Bryant & Stratton College-Hampton,2016,VA,2,3,9500,12453,13700,0.187,21836.645641
+221157,Nashville College of Medical Careers,2016,TN,1,3,8530,PrivacySuppressed,PrivacySuppressed,0.053,17331.922652
+448770,Automotive Training Center-Warminster,2012,PA,1,3,13815.5,13977,12702,0.197,43912.882277
+114080,Marinello Schools of Beauty-Moreno Valley,2014,CA,1,3,7304.5,PrivacySuppressed,PrivacySuppressed,0.221,17895.778509
+166407,Lawrence Memorial Hospital School of Nursing,2010,MA,2,2,20000,20000,20000,NULL,55451.896296
+137078,St Petersburg College,2012,FL,2,1,8072,6250,5500,0.209,26718.930424
+188429,Adelphi University,2014,NY,3,2,21500,20500,19208,0.032,77491.2171
+44903802,Strayer University-Maitland Campus,2018,FL,0,3,10364,20834,22292,0.104,NULL
+200022,Bismarck State College,2016,ND,2,1,7397,7196.5,6300,0.064,68454.820453
+490300,Cutting Edge Academy,2020,NJ,1,3,9500,PrivacySuppressed,PrivacySuppressed,0.1070,NULL
+112075,Concordia University-Irvine,2014,CA,3,2,16750,16071,15000,0.024,77306.997329
+447519,Seacoast Career School-Manchester Campus,2014,NH,1,3,8039,8994,7916.5,0.192,28550.888214
+204778,Ohio State School of Cosmetology-Canal Winchester,2018,OH,1,3,5300,PrivacySuppressed,PrivacySuppressed,0.084,NULL
+24893412,ECPI University-Richmond South,2018,VA,0,3,12779,14166,14166,0.137,NULL
+220321,Tennessee College of Applied Technology-Hohenwald,2018,TN,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+104294,Brillare Hairdressing Academy,2012,AZ,1,3,9500,10271.5,7183.5,0.136,38533.124113
+192970,Memorial Hospital School of Radiation Therapy Technology,2020,NY,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0000,NULL
+147590,National University of Health Sciences,2012,IL,1,2,9500,9500,8580.5,0.04,33430.054217
+446808,Sanford-Brown College-Seattle,2016,WA,3,3,23752.5,24667,22100,0.242,27593.387283
+204778,Ohio State School of Cosmetology-Canal Winchester,2010,OH,1,3,3500,PrivacySuppressed,PrivacySuppressed,NULL,31815.567961
+417734,Southeast Missouri Hospital College of Nursing and Health Sciences,2014,MO,2,2,15250,14500,12000,0.043,46466.716157
+167394,College of Our Lady of the Elms,2012,MA,3,2,18250,18750,17687.5,0.091,56544.570866
+166708,University of Massachusetts Chan Medical School,2020,MA,4,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0060,NULL
+148399,Madison Media Institute-Rockford Career College,2014,IL,1,3,8250,11500,12000,0.12,29436.983125
+419095,Charles H McCann Technical School,2016,MA,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,23147.265306
+165644,Eastern Nazarene College,2010,MA,3,2,9500,11734,13900,NULL,55095.621212
+430591,American College of Traditional Chinese Medicine,2010,CA,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,PrivacySuppressed
+201803,Choffin Career  and Technical Center,2012,OH,1,1,4875,5500,5500,0.185,28728.403846
+483799,East-West Healing Arts Institute,2014,WI,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,40439.6875
+444635,Orion Institute,2016,OH,1,3,7885,PrivacySuppressed,PrivacySuppressed,0.052,36176.887755
+120069,North-West College-Pomona,2018,CA,1,3,9500,9500,5500,0.017,NULL
+449852,Academy of Cosmetology,2012,WI,1,3,7987,PrivacySuppressed,PrivacySuppressed,0.194,25119.573529
+484622,University of Phoenix-Arkansas,2016,AR,3,3,12352,19500,18979,0.128,25959.118161
+407489,Mahoning County Career and Technical Center,2014,OH,1,1,5100,PrivacySuppressed,PrivacySuppressed,0.294,22872.146067
+218663,University of South Carolina-Columbia,2018,SC,3,1,18377,19000,18550,0.033,NULL
+17706502,Columbia College - Coast Guard Island,2016,CA,0,2,12891,13502.5,12435.5,0.149,33448.149011
+487065,Wade Gordon Hairdressing Academy-Lubbock,2018,TX,1,3,8500,PrivacySuppressed,PrivacySuppressed,0.312,NULL
+389860,Mid-EastCTC-Adult Education,2020,OH,1,1,7600,6385,5500,0.0440,NULL
+232195,Germanna Community College,2016,VA,1,1,7250,5500,5500,0.162,41757.393
+448433,Universal Technical Institute of Northern California Inc,2018,CA,1,3,12033,12000,12000,0.144,NULL
+238005,International Beauty School 4,2010,WV,1,3,4750,PrivacySuppressed,PrivacySuppressed,NULL,18838.559055
+433174,Carolinas College of Health Sciences,2016,NC,2,1,9500,9500,7584,0.033,45023.621019
+439288,Johnson & Wales University-Denver,2012,CO,2,2,16000,18000,16227,0.146,66040.754617
+232186,George Mason University,2016,VA,3,1,16500,15750,15750,0.02,64723.111853
+170444,Jackson College,2010,MI,2,1,4706,5500,5500,NULL,26360.238997
+404383,Vatterott College-Kansas City,2010,MO,1,3,14404,18129,16000,NULL,13515.694372
+214069,Misericordia University,2018,PA,3,2,23750,23250,23250,0.041,NULL
+192749,Manhattanville College,2020,NY,3,2,21250,19500,19500,0.0350,NULL
+211352,Cabrini University,2020,PA,3,2,18500,21282,19513,0.0780,NULL
+148511,Rush University,2012,IL,3,2,15500,19125,12500,0.015,34782.647059
+229160,Texas Wesleyan University,2018,TX,3,2,12897,12500,11000,0.06,NULL
+185873,Ocean County College,2016,NJ,2,1,6750,5500,6815,0.141,42442.056516
+238005,International Beauty School 4,2020,WV,1,3,5500,PrivacySuppressed,PrivacySuppressed,0.2030,NULL
+45897307,Strayer University-San Antonio,2016,TX,0,3,8730,13967,15666,0.132,23781.134597
+482158,Middle Georgia State University,2018,GA,3,1,11000,9750,9500,0.121,NULL
+221582,Tennessee College of Applied Technology-Oneida-Huntsville,2014,TN,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,17377.651639
+115773,Humphreys University-Stockton and Modesto Campuses,2020,CA,3,2,25529,22775,19917,0.0410,NULL
+18922801,Berkeley College - Westchester Campus,2010,NY,0,3,5500,5500,6333,NULL,27807.036133
+171234,Montcalm Community College,2018,MI,1,1,10298,8047,5500,0.112,NULL
+442718,National American University-Overland Park,2016,KS,3,3,13791.5,17283,14430.5,0.241,24330.835441
+113397,Marinello Schools of Beauty-Hemet,2012,CA,1,3,6333,6874,6334,0.13,20975.294118
+179991,Academy of Cosmetology Inc,2014,MT,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.108,33273.888889
+48511113,Georgia Military College - Eastman,2020,GA,0,1,5500,5500,5500,0.1350,NULL
+10704401,Harding School of Theology,2012,TN,0,2,14250,16871,17717.5,0.069,76482.368489
+461731,The Salon Professional Academy-Iowa City,2012,IA,1,3,10631,PrivacySuppressed,PrivacySuppressed,0,42425.826087
+446349,John D Rockefeller IV Career Center,2018,WV,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.074,NULL
+457299,Angeles College,2016,CA,1,3,7346,PrivacySuppressed,PrivacySuppressed,0.125,17736.350785
+24893413,ECPI University-Innsbrook,2014,VA,0,3,10500,13000,14250,0.098,30894.999641
+115001,Glendale Community College,2014,CA,2,1,5000,4441,6250,0.095,16122.266389
+398130,Mt Sierra College,2018,CA,3,3,31000,31000,34228,NULL,NULL
+469647,Star Career Academy-Clifton,2014,NJ,1,3,8380,9079,7600,0.104,17078.812213
+377218,School of Automotive Machinists & Technology,2010,TX,1,3,9500,9500,9500,NULL,44488.317829
+203155,Hocking College,2018,OH,2,1,7000,7354,8250,0.221,NULL
+206817,Bacone College,2018,OK,3,2,11717,9500,9375,0.13,NULL
+228282,Southwest School of Business and Technical Careers-San Antonio,2016,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.181,13760.26455
+133508,Florida SouthWestern State College,2018,FL,2,1,5250,4628,4500,0.072,NULL
+107585,University of Arkansas Community College-Morrilton,2012,AR,1,1,4463.5,4284,3000,0.199,26923.2
+108807,Allan Hancock College,2020,CA,2,1,8519,6875,5500,0.1040,NULL
+229814,West Texas A & M University,2010,TX,3,1,9500,8034,7500,NULL,48775.10227
+455406,Pacific Northwest University of Health Sciences,2012,WA,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,NULL
+193292,Molloy College,2018,NY,3,2,25000,25500,21500,0.027,NULL
+145637,University of Illinois Urbana-Champaign,2020,IL,3,1,13613,16985,17500,0.0230,NULL
+17526301,Minnesota State CollegeSoutheast-Red Wing Campus,2014,MN,0,1,9500,8750,6500,0.136,41743.352227
+190594,CUNY Hunter College,2010,NY,3,1,7000,7385,6500,NULL,34374.764727
+219602,Austin Peay State University,2012,TN,3,1,9750,10826.5,8250,0.148,37228.704451
+21287804,Harrisburg Area Community College-York,2020,PA,0,1,9500,9500,8250,0.1220,NULL
+243823,Parker University,2020,TX,3,2,9500,9500,6342,0.0290,NULL
+235103,Edmonds College,2018,WA,1,1,7875,7334,5500,0.126,NULL
+375683,Gordon Cooper Technology Center,2014,OK,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,16334.01845
+157270,Sullivan College of Technology and Design,2014,KY,2,3,16668,15832,12930,0.177,38039.519481
+240392,Herzing University-Madison,2014,WI,3,3,8993,13022,12849.5,0.116,24314.756018
+174154,Herzing University-Minneapolis,2010,MN,1,3,5878,8050.5,7395,NULL,23281.187075
+154697,Barton County Community College,2020,KS,2,1,6238,5535,6500,0.1040,NULL
+49576723,Pennsylvania State University-Penn State Brandywine,2020,PA,0,1,19000,20000,19700,0.0400,NULL
+440031,Keck Graduate Institute,2012,CA,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,NULL
+447227,Everest College-Earth City,2014,MO,1,3,9500,9500,6493,0.15,25323.02568
+227687,Ranger College,2010,TX,1,1,3679,4000,4750,NULL,30452.578313
+230782,Weber State University,2016,UT,3,1,9000,8477,6823,0.073,45660.240778
+111513,Career Academy of Beauty,2012,CA,1,3,6234,6333,6333,0.251,31186.747292
+16947920,Davenport University-Grand Rapids Downtown,2016,MI,0,2,19053,17000,12940,0.114,49985.838658
+469197,Tint School of Makeup and Cosmetology-Grand Prairie,2014,TX,1,3,3538.5,PrivacySuppressed,PrivacySuppressed,0.183,19113.30179
+111009,Le Cordon Bleu College of Culinary Arts-San Francisco,2010,CA,2,3,9500,10583,9500,NULL,43403.967657
+455187,Total Image Beauty Academy,2018,NJ,1,3,7000,PrivacySuppressed,PrivacySuppressed,0.061,NULL
+490841,Ross College-Grand Rapids North,2018,MI,1,3,9500,5500,5500,0.226,NULL
+454607,Paul Mitchell the School-Esani,2012,GA,1,3,9833,9833,9833,0.169,42400.122257
+115010,Glendale Career College,2012,CA,1,3,7300,7600,9500,0.17,25088.301325
+197911,Barton College,2014,NC,3,2,20834,20465,21250,0.113,56066.311178
+414878,Trine University-Regional/Non-Traditional Campuses,2010,IN,3,2,10500,14500,14750,NULL,53736.697486
+148955,National Latino Education Institute,2016,IL,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.205,25631.432836
+230366,Eagle Gate College-Murray,2010,UT,2,3,11396.5,11000,9500,NULL,25317.688451
+434061,South Louisiana Community College,2016,LA,1,1,3500,3500,4955,0,30334.061298
+487490,Florida Career College-Houston,2016,TX,1,3,9500,9500,9500,0.198,15286.696829
+112084,San Diego Christian College,2020,CA,3,2,15750,12500,12000,0.0860,NULL
+133809,Florida College,2014,FL,2,2,10806,10625,8000,0.043,75384.271676
+482556,DeVry University-New Jersey,2018,NJ,3,3,11812,16624,19079,0.099,NULL
+11835606,Marinello School of Beauty-San Diego,2014,CA,0,3,7952,10012.5,9833,0.242,18665.103781
+132842,Albizu University-Miami,2020,FL,3,2,5000,6332,4500,0.0570,NULL
+260901,Purdue University Global-Davenport,2014,IA,3,3,7125,12686.5,16013,0.129,23154.764565
+184092,American Institute-Clifton,2010,NJ,1,3,9500,9500,9500,NULL,19536.705778
+127556,Colorado Mesa University,2018,CO,3,1,12500,12000,11738,0.103,NULL
+248776,Coastal Pines Technical College,2012,GA,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,17381.876327
+204194,Mount Vernon Nazarene University,2018,OH,3,2,18750,19500,17500,0.057,NULL
+395362,Copper Mountain Community College,2014,CA,2,1,6542,PrivacySuppressed,PrivacySuppressed,0.257,17403.144454
+156541,University of the Cumberlands,2020,KY,3,2,7773,9112,9500,0.0530,NULL
+383190,Hawaii Community College,2010,HI,2,1,4367,4500,2750,NULL,18377.615459
+449533,Pensacola School of Massage Therapy & Health Careers,2010,FL,1,3,3111,PrivacySuppressed,PrivacySuppressed,NULL,16844.309609
+241304,Columbia Central University-Caguas,2018,PR,2,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+175281,Mitchell Hamline School of Law,2012,MN,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.021,PrivacySuppressed
+203580,Lake Erie College,2020,OH,3,2,12500,15000,14125,0.1010,NULL
+164155,United States Naval Academy,2016,MD,3,1,NULL,NULL,NULL,NULL,NULL
+118772,Merritt College,2016,CA,1,1,9500,PrivacySuppressed,PrivacySuppressed,0.279,17370.399877
+204662,Ohio State University Agricultural Technical Institute,2018,OH,2,1,12724,14000,16000,0.045,NULL
+237215,Bluefield State University,2018,WV,3,1,12000,12000,11511,0.19,NULL
+130907,Delaware Technical Community College-Terry,2016,DE,2,1,3721,3500,4027.5,0.165,35590.055377
+442222,Argosy University-Dallas,2010,TX,3,3,6000,8800,9500,NULL,21424.607463
+17501404,Rasmussen University-Brooklyn Park,2018,MN,0,3,10211,13652,13378,0.073,NULL
+449685,New Age Training,2020,NY,1,3,7104,PrivacySuppressed,PrivacySuppressed,0.1110,NULL
+248934,ECPI University,2020,VA,2,3,13798,13789,14166,0.1140,NULL
+480161,Ideal Beauty Academy,2020,KY,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.2140,NULL
+224679,Western Technical College,2012,TX,1,3,9500,9500,7914.5,0.281,20639.268585
+487995,Alhambra Medical University,2020,CA,4,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0000,NULL
+456968,Health And Style Institute,2016,NC,1,3,4750,6333,4750,0.149,24582.115607
+125310,Waynes College of Beauty,2018,CA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+157289,University of Louisville,2020,KY,3,1,13840,13000,14000,0.0440,NULL
+202684,Bryant & Stratton College-Cleveland,2014,OH,2,3,7751,11000,12000,0.213,19726.189266
+137801,Altierus Career College-Tampa,2020,FL,1,2,8897,8828,6583,0.1750,NULL
+226134,Laredo College,2010,TX,2,1,2334,2334,2334,NULL,20281.541174
+447713,California Career College,2014,CA,1,3,11000,PrivacySuppressed,PrivacySuppressed,0.073,26816.033333
+108852,American Academy of Dramatic Arts-Los Angeles,2016,CA,2,2,11899,10699.5,12000,0.115,65846.883598
+183123,Lakes Region Community College,2016,NH,2,1,10000,8251,5785,0.15,49020.705512
+221829,Tennessee School of Beauty of Knoxville Inc,2018,TN,1,3,7308,5500,5500,0.028,NULL
+105349,Northland Pioneer College,2018,AZ,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+451972,ITT Technical Institute-Phoenix,2012,AZ,2,3,9500,11500,10996.5,0.286,23408.681196
+243106,University of Puerto Rico-Aguadilla,2010,PR,3,1,2750,PrivacySuppressed,PrivacySuppressed,NULL,17012.099485
+188100,San Juan College,2018,NM,2,1,6750,6795,5500,0.159,NULL
+251260,Southern Union State Community College,2014,AL,2,1,4491.5,4500,5200,0.172,30395.792961
+376677,Queen City College,2014,TN,1,3,6333,PrivacySuppressed,PrivacySuppressed,0,17860.495098
+163976,St. John's College,2014,MD,3,2,17250,22250,21000,0.072,112900.8973
+15535301,Old Town Barber College - KC,2020,MO,0,3,10000,PrivacySuppressed,PrivacySuppressed,0.0650,NULL
+232919,Tidewater Tech-Trades,2012,VA,1,3,9500,PrivacySuppressed,PrivacySuppressed,0.427,18128.090226
+190451,Pomeroy College of Nursing at Crouse Hospital,2018,NY,2,2,15250,13125,12000,0.007,NULL
+440828,Oregon State University-Cascades Campus,2020,OR,3,1,16000,15125,14000,0.0280,NULL
+175607,Delta Beauty College,2020,MS,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+145460,Harrington College of Design,2012,IL,3,3,14250,24750,22500,0.136,37466.301418
+168254,Western New England University,2014,MA,3,2,17789,21500,19500,0.043,90534.813253
+369783,PCI Health Training Center,2010,TX,1,3,5500,6333,6333,NULL,23512.553038
+469629,Oklahoma Technical College,2012,OK,1,3,8779,9775,9686,0.17,22273.113319
+22797902,San Jacinto College-South Campus,2020,TX,0,1,7750,5500,5158,0.1010,NULL
+441575,Metropolitan Learning Institute,2020,NY,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+144467,Le Cordon Bleu College of Culinary Arts-Chicago,2012,IL,2,3,11644,11379,11042,0.232,25376.742694
+164216,Washington College,2012,MD,3,2,21000,25500,19750,0.031,113905.99829
+417734,Southeast Missouri Hospital College of Nursing and Health Sciences,2012,MO,2,2,12500,14000,10500,0.093,42913.277533
+462345,The Salon Professional Academy,2014,IL,1,3,12683,9833,9833,0.166,46276
+483513,Neecee's Barber College,2016,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,17273.571429
+483522,Comanche Nation College,2016,OK,2,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,9764.1333333
+172635,Wayne County Community College District,2010,MI,2,1,3500,3500,4500,NULL,14588.950005
+148982,Spertus College,2020,IL,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0410,NULL
+445230,Pima Medical Institute-Las Vegas,2018,NV,1,3,8511,8750,8750,0.07,NULL
+467368,Carrington College-Ontario,2020,CA,2,3,10375,10500,10813,0.1290,NULL
+199157,North Carolina Central University,2014,NC,3,1,21386,21000,21250,0.133,35546.995084
+212656,Geneva College,2010,PA,3,2,13171,16320,13839,NULL,58644.841924
+488439,Kenny's Academy of Barbering,2020,IN,1,3,8250,PrivacySuppressed,PrivacySuppressed,0.4440,NULL
+433970,Harris School of Business-Sanford Campus,2016,ME,1,3,7899.5,8884,5500,0.119,32147.893417
+193070,Mesivtha Tifereth Jerusalem of America,2014,NY,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,43342.826087
+194392,Paul Smiths College of Arts and Science,2014,NY,3,2,14750,20000,16000,0.097,70365.880342
+138691,Darton State College,2010,GA,2,1,4500,4750,5000,NULL,31012.46672
+485290,National American University-Harold D. Buckingham Graduate School,2014,SD,4,3,9500,13271,13086.5,0.206,18879.034266
+443207,NTMA Training Centers of Southern California,2018,CA,1,2,8595,8418,5500,0.106,NULL
+211644,Clarion University of Pennsylvania,2012,PA,3,1,11464,16250,16000,0.092,56101.918381
+201982,Scott College of Cosmetology,2012,WV,1,3,3975,PrivacySuppressed,PrivacySuppressed,0.312,37369.28169
+155450,Labette Community College,2012,KS,2,1,3500,3500,3500,0.173,30354.702774
+455433,The Chicago School of Professional Psychology at Anaheim,2016,CA,4,2,4750,PrivacySuppressed,PrivacySuppressed,0.034,31396.256158
+421717,Vanguard-Sentinel Adult Career and Technology Center,2020,OH,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+441052,American Career College-Anaheim,2018,CA,1,3,9500,9500,9500,0.036,NULL
+133979,Florida Memorial University,2012,FL,3,2,18863,15250,9500,0.243,25765.292462
+115746,Pacifica Graduate Institute,2018,CA,4,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.034,NULL
+438647,Altierus Career College-Chesapeake,2012,VA,1,3,9500,9500,6844,0.165,17876.392079
+444051,Creative Images Institute of Cosmetology-South Dayton,2018,OH,1,3,9365,9401,9500,0.056,NULL
+36520401,Vista College Amarillo,2010,TX,0,3,8724,9500,9500,NULL,16229.558468
+179946,Westminster College,2010,MO,3,2,12237.5,13631.5,12000,NULL,72402.188433
+448309,Shorter University-College of Adult & Professional Programs,2014,GA,3,2,23438,21508.5,15750,0.091,49735.219388
+417248,CT Aerotech,2010,CT,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,PrivacySuppressed
+17501402,Rasmussen University-Eagan,2010,MN,0,3,6297,6334,6334,NULL,27709.369487
+260664,Diesel Driving Academy-Shreveport,2016,LA,1,3,6333,PrivacySuppressed,PrivacySuppressed,0.097,18078.2625
+233426,Roanoke College,2010,VA,3,2,17999,18000,17250,NULL,95053.145332
+217165,Bryant University,2012,RI,3,2,27000,26000,25848.5,0.034,105684.98141
+261472,ITT Technical Institute-Troy,2012,MI,2,3,9500,11500,10996.5,0.286,23408.681196
+199980,Winston Salem Barber School,2010,NC,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,12222.777778
+417655,Warrensburg Area Career Center,2020,MO,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.1080,NULL
+187620,New Mexico State University-Dona Ana,2020,NM,2,1,10688,9443,10250,0.1030,NULL
+222822,Angelina College,2014,TX,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,19654.039453
+190594,CUNY Hunter College,2014,NY,3,1,5993.5,8550,9200,0.042,31394.420954
+246345,Houston Graduate School of Theology,2014,TX,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.063,NULL
+141644,Hawaii Pacific University,2020,HI,3,2,12500,12000,11790,0.0470,NULL
+215336,Beaver Falls Beauty Academy,2016,PA,1,3,7500,PrivacySuppressed,PrivacySuppressed,0.076,25635.225352
+405997,University of Phoenix-New Mexico,2012,NM,3,3,5821,14438,16813,0.26,22658.288176
+190309,Continental School of Beauty Culture-Batavia,2010,NY,1,3,7500,PrivacySuppressed,PrivacySuppressed,NULL,21632.440141
+242705,Inter American University of Puerto Rico-Bayamon,2014,PR,3,2,4500,4600,5500,0.128,15687.431242
+412544,Shear Ego International School of Hair Design,2010,NY,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,15987.481707
+18409201,American Institute,2020,NJ,0,3,9500,8521,9022,0.1350,NULL
+127024,Westwood College-Denver North,2012,CO,3,3,16000,23777,31000,0.204,25374.248098
+146472,College of Lake County,2012,IL,2,1,3500,3500,3500,0.144,28121.587952
+449764,Visible Music College,2018,TN,3,2,11938,PrivacySuppressed,PrivacySuppressed,0.111,NULL
+175494,Chris Beauty College,2020,MS,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+449269,Altierus Career Education-South Plainfield,2014,NJ,1,3,9500,9500,7914.5,0.179,17762.138338
+229319,Texas State Technical College-Harlingen,2012,TX,2,1,3500,2705.5,2334,0.337,20190.063819
+479628,ITT Technical Institute-Indianapolis East,2012,IN,2,3,9500,11500,10996.5,0.286,23408.681196
+193609,Neighborhood Playhouse School of the Theater,2010,NY,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,38007.594595
+175652,East Mississippi Community College,2020,MS,2,1,6154,5500,5500,0.1110,NULL
+132879,Johnson University Florida,2018,FL,3,2,14000,17535,15355,0.052,NULL
+119678,Naval Postgraduate School,2018,CA,4,1,NULL,NULL,NULL,NULL,NULL
+117238,Lancaster Beauty School,2014,CA,1,3,7300,PrivacySuppressed,PrivacySuppressed,0.103,21365.041475
+112455,Coba Academy,2016,CA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.1,22453.324675
+219842,Pentecostal Theological Seminary,2016,TN,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.03,NULL
+454689,Taft University System,2020,CO,3,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0230,NULL
+364317,Sanford-Brown Institute-Landover,2010,MD,1,3,9500,9500,9500,NULL,20395.813196
+455734,California Nurses Educational Institute,2016,CA,1,3,9731.5,PrivacySuppressed,PrivacySuppressed,0.146,22718.454148
+17501401,Rasmussen University-Bloomington,2014,MN,0,3,6831.5,12242.5,9949,0.109,33504.557295
+418603,Clarion County Career Center Practical Nursing Program,2018,PA,1,1,17297,PrivacySuppressed,PrivacySuppressed,0.17,NULL
+105206,Mohave Community College,2012,AZ,1,1,7376,5750,4500,0.327,19877.399105
+434362,Northwest HVAC/R Training Center,2010,WA,1,2,6986,PrivacySuppressed,PrivacySuppressed,NULL,34565.974684
+200156,University of Jamestown,2014,ND,3,2,16719,19500,12000,0.053,82120.788462
+251251,ITT Technical Institute-Newburgh,2010,IN,2,3,4000,5000,5000,NULL,23676.846937
+490285,California Institute of Arts & Technology,2020,CA,1,3,5250,PrivacySuppressed,PrivacySuppressed,0.1000,NULL
+193858,New York School for Medical and Dental Assistants,2012,NY,1,3,8792,PrivacySuppressed,PrivacySuppressed,0.155,17040.126531
+215628,Reformed Presbyterian Theological Seminary,2014,PA,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.1,PrivacySuppressed
+401250,Yo San University of Traditional Chinese Medicine,2014,CA,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,PrivacySuppressed
+102076,Snead State Community College,2012,AL,2,1,2250,3112,3500,0,25057.516279
+222822,Angelina College,2010,TX,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,19800.284306
+198808,Lees-McRae College,2020,NC,3,2,11000,12500,12875,0.0690,NULL
+177214,Drury University,2016,MO,3,2,13669,13821,14035,0.117,46345.803993
+383190,Hawaii Community College,2014,HI,2,1,6056,5375,5000,0.276,19383.689993
+459417,Compass College of Film and Media,2014,MI,2,2,15033,10835,9834,0.058,63167.33
+455257,Yeshiva of Machzikai Hadas,2014,NY,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,17269.176768
+240444,University of Wisconsin-Madison,2010,WI,3,1,13800,16500,15000,NULL,91515.6596
+444787,Nightingale College,2018,UT,2,3,15750,15750,15750,0.039,NULL
+148405,Rockford University,2020,IL,3,2,18204,15000,13000,0.0790,NULL
+470904,ITT Technical Institute-Myrtle Beach,2014,SC,2,3,9956,14950,15720,0.188,24279.436364
+201061,Art Academy of Cincinnati,2012,OH,3,2,14886,10625,21500,0.075,56075.598361
+444529,Stellar Career College,2012,CA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.214,13420.774468
+455956,Liberty Junior College,2010,PR,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,5208.4827586
+223427,Blinn College District,2012,TX,2,1,3500,3500,4500,0.202,45512.32801
+399212,Santiago Canyon College,2012,CA,1,1,4500,4500,3500,0.172,25122.981218
+438285,Cortiva Institute,2010,FL,1,3,7014,8500,6500,NULL,23702.516356
+230977,New England Culinary Institute,2020,VT,2,3,PrivacySuppressed,PrivacySuppressed,12000,NULL,NULL
+458399,Regina's College of Beauty-High Point,2012,NC,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.268,8864.9060773
+246406,Sebring Career Schools-Huntsville,2012,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.541,13665.077419
+232618,Centra College,2016,VA,2,2,12000,14000,14750,0.012,43906.437158
+366191,Universal Technical Institute of Illinois Inc,2010,IL,1,3,14250,13392,12000,NULL,39348.869018
+440749,National American University-Ellsworth,2010,SD,3,3,6068,7956,7732.5,NULL,25022.632813
+157508,Pat Wilson's Beauty College,2014,KY,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,11206.903614
+203483,Kent State University at Tuscarawas,2020,OH,2,1,16500,17838,17500,0.0580,NULL
+441964,ITT Technical Institute-Chantilly,2010,VA,2,3,4000,5000,5000,NULL,23676.846937
+196866,Union College,2012,NY,3,2,15120.5,24041,24998,0.025,120232.24739
+201098,Ashland County-West Holmes Career Center,2012,OH,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.363,22502.185792
+462390,University of Phoenix-Mississippi,2012,MS,3,3,5821,14438,16813,0.26,22658.288176
+491710,Yeshiva Gedolah of Cliffwood,2018,NJ,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+13090701,Delaware Technical Community College-Owens,2020,DE,0,1,5250,5500,6000,0.0910,NULL
+456588,Salon Success Academy-Fontana,2020,CA,1,3,7177,7177,4155,0.1280,NULL
+146506,Lake Land College,2020,IL,1,1,3500,4095,4500,0.1310,NULL
+10236802,Troy University-Montgomery Campus,2016,AL,0,1,14250,15000,13502,0.114,42757.394639
+443030,NorthShore University HealthSystem School of Nurse Anesthesia,2020,IL,4,2,NULL,NULL,NULL,NULL,NULL
+182397,Marinello Schools of Beauty-Reno,2014,NV,1,3,6236,7626,7948.5,0.174,25343.547215
+433563,Spencerian College-Lexington,2012,KY,2,3,9500,14750,9584,0.266,24095.60371
+439914,Seattle Institute of East Asian Medicine,2014,WA,4,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,NULL
+447768,American Career College-Ontario,2012,CA,1,3,9500,9500,9500,0.087,28008.088285
+143659,Catholic Theological Union at Chicago,2020,IL,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0660,NULL
+450599,Empire Beauty School-Richmond,2012,VA,1,3,8714,8100,8100,0.173,22856.856263
+482617,DeVry University-Tennessee,2018,TN,3,3,11812,16624,19079,0.099,NULL
+238032,West Virginia University,2014,WV,3,1,11099,13243.5,13500,0.085,76606.283387
+161518,Saint Joseph's College of Maine,2012,ME,3,2,9500,13600,19500,0.066,65702.39027
+237358,Davis & Elkins College,2010,WV,3,2,12500,8250,9500,NULL,49845.524164
+194073,New York College of Podiatric Medicine,2010,NY,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+211361,California University of Pennsylvania,2014,PA,3,1,14920,18724.5,16500,0.074,60210.008
+444307,Empire Beauty School-West Mifflin,2014,PA,1,3,6781,8100,7954,0.11,21504.956246
+196219,SUNY at Purchase College,2010,NY,3,1,15750,16750,13000,NULL,72394.461245
+123013,Santa Rosa Junior College,2010,CA,1,1,4500,5000,5500,NULL,20590.126161
+169992,Gogebic Community College,2020,MI,2,1,5500,6500,5500,0.1090,NULL
+168786,Aquinas College,2016,MI,3,2,18500,20603,19729,0.035,72908.761983
+232885,Sentara College of Health Sciences,2012,VA,1,2,14750,17139,12000,0.045,52234.204819
+157793,Sullivan University,2020,KY,2,3,9500,12635,11081,0.1140,NULL
+187903,New Mexico Junior College,2016,NM,2,1,4100,4750,4750,0.188,30817.059045
+237686,West Virginia University at Parkersburg,2016,WV,2,1,6500,6450,6500,0.238,35666.581804
+164599,Bancroft School of Massage Therapy,2016,MA,1,3,7600,PrivacySuppressed,PrivacySuppressed,0.07,51586.448276
+436030,Hair Academy II,2012,MD,1,3,3750,PrivacySuppressed,PrivacySuppressed,0.25,16980.470199
+202134,Cleveland State University,2016,OH,3,1,15000,13500,12500,0.077,49675.884322
+173638,Minnesota West Community and Technical College,2012,MN,1,1,7978.5,8299,5500,0.166,35876.013087
+172015,Ross Medical Education Center-Flint,2012,MI,1,3,9500,9500,8452.5,0.257,20615.970044
+461953,Colorado Academy of Veterinary Technology,2018,CO,2,3,19728,PrivacySuppressed,PrivacySuppressed,0.063,NULL
+184180,County College of Morris,2010,NJ,2,1,3500,3500,3500,NULL,48942.03171
+190044,Clarkson University,2014,NY,3,2,22391,25000,23000,0.028,95333.285617
+454847,National Beauty College,2012,CO,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,18811.057143
+249238,Paul Mitchell the School-Houston,2018,TX,1,3,9500,9833,9833,0.045,NULL
+456454,Fortis College-Salt Lake City,2014,UT,2,3,9500,13000,12000,0.126,24346.823214
+443058,Family of Faith Christian University,2014,OK,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.105,23590.8
+457545,Paul Mitchell the School-Normal,2014,IL,1,3,9833,9833,9833,0.122,50545.345324
+166133,Holyoke Community College,2012,MA,2,1,3500,3500,5300,0.167,28475.162933
+45891902,Strayer University-Morrow Campus,2016,GA,0,3,8730,13967,15666,0.132,23781.134597
+435000,Louisiana State University Health Sciences Center-Shreveport,2012,LA,3,1,25000,PrivacySuppressed,PrivacySuppressed,0,47574.125
+101648,Marion Military Institute,2020,AL,2,1,4750,5500,5500,0.0730,NULL
+226860,William Edge Institute,2010,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,15561.621622
+163107,Maryland Beauty Academy,2012,MD,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.25,18144.903846
+168838,Baker College of Owosso,2010,MI,2,2,5937,6270,5880,NULL,27648.242682
+219480,Western Dakota Technical College,2016,SD,2,1,7000,8250,8750,0.228,36148.945616
+216694,Waynesburg University,2018,PA,3,2,19000,19945,23250,0.044,NULL
+205391,The Modern College of Design,2014,OH,2,3,12000,12000,12000,0.043,60509.856164
+43018401,Strayer University-Rockville Campus,2016,MD,0,3,8730,13967,15666,0.132,23781.134597
+202639,Eastern Hills Academy of Hair Design,2014,OH,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,15824.463415
+166407,Lawrence Memorial Hospital School of Nursing,2012,MA,2,2,20000,20000,20000,0.028,49388.317992
+486707,Ross Medical Education Center-Huntsville,2016,AL,1,3,9500,7556.5,5500,0.264,25603.605231
+451121,Paul Mitchell the School-Miami,2018,FL,1,3,8575,7667,7667,0.086,NULL
+470296,Manuel and Theresa's School of Hair Design-Victoria,2016,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.162,33676.477273
+181604,College of Saint Mary,2016,NE,3,2,22305,23974,19005,0.048,60173.342282
+159948,New Orleans Baptist Theological Seminary,2014,LA,1,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+236948,University of Washington-Seattle Campus,2020,WA,3,1,12184,11667,12851,0.0210,NULL
+458256,Virginia College-Augusta,2012,GA,1,3,7831,11605,11982,0.282,17553.951252
+45316305,Strayer University-Huntersville Campus,2010,NC,0,3,6334,6334,9466,NULL,25442.650206
+140076,Heart of Georgia Technical College,2010,GA,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,16369.322581
+482635,DeVry University-Texas,2018,TX,3,3,11812,16624,19079,0.099,NULL
+156471,Galen College of Nursing-Louisville,2010,KY,1,3,12354,14250,12301.5,NULL,40247.44868
+444307,Empire Beauty School-West Mifflin,2016,PA,1,3,8331,8292,8100,0.118,21986.05903
+196079,Binghamton University,2016,NY,3,1,17250,17250,15934,0.022,84238.652146
+170532,Kalamazoo College,2018,MI,3,2,16000,21500,21500,0,NULL
+215947,Seton Hill University,2016,PA,3,2,24892.5,24500,20500,0.087,83692.917197
+137953,Trinity Baptist College,2012,FL,3,2,5500,5687.5,9039,0.148,35306.976852
+124344,Marinello Schools of Beauty-Lake Forest,2012,CA,1,3,6462,8208,6847,0.094,23469.105213
+110699,University of California-San Francisco,2012,CA,4,1,6000,PrivacySuppressed,PrivacySuppressed,0.005,22117.374359
+207254,Spartan College of Aeronautics and Technology,2010,OK,1,3,12671,12758,12000,NULL,34463.495595
+186274,Robert Fiance Beauty Schools,2018,FL,1,3,7819,PrivacySuppressed,PrivacySuppressed,0.111,NULL
+408385,Southern Careers Institute-Pharr,2012,TX,1,3,6730,7841,5500,0.29,15441.920382
+144218,City Colleges of Chicago-Wilbur Wright College,2018,IL,2,1,3800,3500,3996,0.151,NULL
+126401,Altierus Career College-Colorado Springs,2012,CO,1,3,9500,9500,9500,0.18,17599.773391
+214713,Pennsylvania State University-Penn State Harrisburg,2010,PA,3,1,13750,16090,15750,NULL,74618.847026
+139205,Brewton-Parker College,2014,GA,3,2,9500,11000,9500,0.14,46014.07455
+126580,University of Colorado Colorado Springs,2020,CO,3,1,13466,12553,12522,0.0430,NULL
+190682,CUNY School of Law,2016,NY,4,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.02,NULL
+147369,Moody Bible Institute,2012,IL,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,27139.307102
+455220,Career School of NY,2010,NY,1,2,3500,4500,5500,NULL,29068.936508
+137759,Tallahassee Community College,2012,FL,2,1,4500,4500,5500,0.24,29260.807658
+135364,Luther Rice College & Seminary,2012,GA,3,2,9500,12500,9500,0.067,33905.574751
+167534,Quinsigamond Community College,2016,MA,2,1,7436,7776,7763,0.138,38014.620287
+37564704,CC's Cosmetology College-Texarkana,2012,TX,0,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.403,10944.85
+117706,Los Angeles Pierce College,2016,CA,2,1,9500,6065.5,5418,0.171,19774.727402
+483364,Delta College-Slidell Campus,2014,LA,1,3,4916,5307,7700,0.131,22747.181684
+172051,Saginaw Valley State University,2012,MI,3,1,10799,11000,12000,0.092,54916.854023
+138293,Webber International University,2016,FL,3,2,11427,9500,11000,0.174,52800.315789
+125471,West Los Angeles College,2012,CA,2,1,4750,PrivacySuppressed,PrivacySuppressed,0.186,16153.757616
+45891904,Strayer University-Douglasville Campus,2018,GA,0,3,10364,20834,22292,0.104,NULL
+197708,Yeshiva University,2020,NY,3,2,12000,16282,14000,0.0220,NULL
+203678,James A. Rhodes State College,2014,OH,2,1,8134,7750,5500,0.164,38576.039227
+145460,Harrington College of Design,2010,IL,3,3,9500,15750,17750,NULL,42399.392857
+111966,Charles R Drew University of Medicine and Science,2010,CA,1,2,20000,PrivacySuppressed,PrivacySuppressed,NULL,30403.331325
+189501,Brooklyn Law School,2020,NY,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0110,NULL
+407425,Capri Institute of Hair Design-Paramus,2012,NJ,1,3,6333,6333,5500,0.06,46486
+188650,Allen School-Brooklyn,2016,NY,1,3,9495,9500,9500,0.184,20295.594859
+184269,DeVry University-New Jersey,2010,NJ,2,3,9500,9500,9529,NULL,31353.445759
+413635,Anthem College-Sacramento,2010,CA,1,3,7208,8228,8958,NULL,22600.0025
+177834,A T Still University of Health Sciences,2018,MO,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.004,NULL
+111434,Canada College,2012,CA,2,1,4500,PrivacySuppressed,PrivacySuppressed,0.102,19480.22975
+107327,Arkansas Northeastern College,2020,AR,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0710,NULL
+112288,Milan Institute-Visalia,2016,CA,1,3,8185,PrivacySuppressed,PrivacySuppressed,0.165,18892.904943
+104188,Southwest University of Visual Arts-Tucson,2016,AZ,3,3,30918.5,PrivacySuppressed,PrivacySuppressed,0.109,39050.148515
+430971,Delaware County Technical School-Practical Nursing Program,2020,PA,1,1,16500,PrivacySuppressed,PrivacySuppressed,0.0680,NULL
+420343,Lincoln Technical Institute-Mahwah,2016,NJ,1,3,10375,10375,10370.5,0.123,36560.766357
+147916,Parkland College,2014,IL,2,1,3500,4164,4500,0.219,33759.595485
+450146,StenoTech Career Institute-Piscataway,2010,NJ,1,3,9499,9500,8714,NULL,56731.366906
+457323,Paul Mitchell the School-Temecula,2012,CA,1,3,11773,10556,10556,0,44229.002618
+444592,Expertise Cosmetology Institute,2010,NV,1,2,7500,PrivacySuppressed,PrivacySuppressed,NULL,15817.774306
+487807,Top of the Line Barber College,2018,SC,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+369862,Miami-Jacobs Career College-Columbus,2016,OH,2,3,13833.5,15566,12615.5,0.175,18684.597424
+457536,Midwestern Career College,2016,IL,1,3,7125,PrivacySuppressed,PrivacySuppressed,0.145,21513.968903
+489830,Arthur's Beauty College,2016,AR,1,3,6956,PrivacySuppressed,PrivacySuppressed,0.076,21634.813253
+453473,American National University-Cincinnati,2012,OH,2,3,11407,14777,9500,0.107,14876.095597
+193308,Monroe College,2014,NY,2,3,10962,13874,13859.5,0.058,25275.503511
+461272,Mandalyn Academy,2014,UT,1,3,9500,PrivacySuppressed,PrivacySuppressed,0.037,30609.353659
+460525,Milan Institute-Boise,2010,ID,1,3,7916,7701,7597,NULL,19742.835371
+488970,Ross Medical Education Center-Midland,2020,MI,1,3,8609,7000,5500,0.1800,NULL
+240505,Casper College,2010,WY,2,1,4862.5,4610,4500,NULL,34900.930909
+199722,Southeastern Community College,2018,NC,2,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.145,NULL
+17706525,Columbia College - Elgin,2018,IL,0,2,14566,15649,13750,0.125,NULL
+141796,Kapiolani Community College,2012,HI,2,1,5500,5000,5500,0.151,27086.407377
+217873,Claflin University,2018,SC,3,2,20350,20910,23250,0.106,NULL
+491695,Brown Beauty Barber School,2018,AL,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+23059701,Snow College-Richfield Campus,2016,UT,0,1,3500,3500,3500,0.12,49563.473986
+483036,Texas A&M University-Central Texas,2016,TX,3,1,12392,12443,10725,0.082,33036.218796
+21287803,Harrisburg Area Community College-Lebanon,2014,PA,0,1,6500,6406.5,5500,0.161,38540.971009
+451662,The Art Institute of Pittsburgh-Online Division,2010,PA,1,3,6334,8689,9397,NULL,24678.152598
+445638,Spa Tech Institute-Ipswich,2010,MA,1,3,6333,6333,5500,NULL,33113.314581
+461962,Northeast Technical Institute,2016,ME,1,3,7652,7600,4400,0.159,27957.965827
+493594,Yeshiva of Ocean,2020,NY,2,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+230728,Utah State University,2018,UT,3,1,9000,9600,8500,0.056,NULL
+222886,Arlington Career Institute,2018,TX,1,3,5500,8639,6191,0.099,NULL
+101709,University of Montevallo,2010,AL,3,1,9500,11451.5,9487.5,NULL,50889.269855
+457314,Angeles Institute,2014,CA,1,3,13175,16846.5,16850,0.095,28635.820225
+134422,Key College,2014,FL,2,3,10734,PrivacySuppressed,PrivacySuppressed,0.125,29718.080645
+190600,CUNY John Jay College of Criminal Justice,2016,NY,3,1,6650,7616,12000,0.057,28315.628522
+192110,The Juilliard School,2014,NY,3,2,27000,26955,25000,0.034,97780.516949
+154174,Palmer College of Chiropractic,2020,IA,3,2,7500,PrivacySuppressed,PrivacySuppressed,0.0120,NULL
+238935,DeVry University-Wisconsin,2010,WI,3,3,5942.5,4604,6625,NULL,36649.228873
+15468801,Baker University School of Nursing,2014,KS,0,2,21353,20488.5,19541,0.053,69065.414079
+178624,Northwest Missouri State University,2018,MO,3,1,12000,13289,14000,0.079,NULL
+218654,University of South Carolina Beaufort,2010,SC,3,1,9500,8250,5562,NULL,53030.911414
+179052,Rolla Technical Institute/Center,2014,MO,1,1,9500,9100,8075,0.101,32599.904494
+212878,Harrisburg Area Community College,2014,PA,2,1,6500,6406.5,5500,0.161,38540.971009
+138354,The University of West Florida,2012,FL,3,1,9000,8384.5,7500,0.106,45951.012086
+205391,The Modern College of Design,2010,OH,2,3,10625,8000,8000,NULL,52457.836066
+373678,New England Hair Academy,2014,MA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,21191.278607
+461786,Advanced College of Cosmetology,2018,WI,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.012,NULL
+460561,Park Avenue School of Cosmetology,2012,MN,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,23169.867647
+226903,Southern Careers Institute-Austin,2014,TX,1,3,8433,8507,8507,0.147,16846.402669
+18958301,Bryant & Stratton College-Amherst,2020,NY,0,3,9500,12200,9694,0.1430,NULL
+180179,Montana State University Billings,2012,MT,3,1,8000,7638.5,5545.5,0.117,45065.166667
+198774,Johnston Community College,2012,NC,2,1,5833,5250,5500,0.152,26681.883987
+102049,Samford University,2018,AL,3,2,17500,18240,15750,0.029,NULL
+433536,Herzing University-New Orleans,2018,LA,2,2,10670,14620,16590,0.127,NULL
+459620,ITT Technical Institute-Cedar Rapids,2010,IA,2,3,4000,5000,5000,NULL,23676.846937
+110699,University of California-San Francisco,2018,CA,4,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.004,NULL
+446996,Chambersburg Beauty School,2014,PA,1,3,4083,PrivacySuppressed,PrivacySuppressed,0.168,15116.752599
+151661,Lincoln College of Technology-Indianapolis,2018,IN,1,3,10264,10375,10267,0.111,NULL
+215798,Saint Vincent College,2014,PA,3,2,25000,25000,23250,0.04,90289.99884
+161138,Eastern Maine Community College,2016,ME,2,1,8000,5500,6000,0.18,37384.855967
+455327,Hands on Therapy,2016,TX,1,3,7917,PrivacySuppressed,PrivacySuppressed,0.126,21568.251613
+418296,Indian Capital Technology Center-Muskogee,2012,OK,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,16566.299465
+455682,The Chicago School of Professional Psychology at Westwood,2014,CA,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.036,38436.8125
+162982,L'Academie de Cuisine,2016,MD,1,3,20000,20000,12000,0.043,64862.818182
+491288,University of Wisconsin-Milwaukee Flex,2020,WI,3,1,16500,15492,14750,0.0620,NULL
+138132,Fashion Focus Hair Academy,2014,FL,1,3,7975,PrivacySuppressed,PrivacySuppressed,0.277,21252.164179
+437723,New Community Career & Technical Institute,2018,NJ,1,2,2008,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+107637,Southeast Arkansas College,2018,AR,1,1,4750,4500,3500,0.195,NULL
+45891906,Strayer University-Savannah Campus,2020,GA,0,3,12667,20636,22364,0.0860,NULL
+170657,Lansing Community College,2016,MI,2,1,6423,5900,5239,0.176,39266.910698
+476683,Athena Career Academy,2012,OH,1,3,9500,PrivacySuppressed,PrivacySuppressed,0,22106.452297
+364335,Sanford-Brown Institute-Garden City,2012,NY,1,3,9500,9500,8767,0.194,25884.429412
+151290,Indiana Institute of Technology,2018,IN,3,2,9500,15433,15000,0.256,NULL
+127158,Emily Griffith Technical College,2018,CO,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+224350,Del Mar College,2014,TX,2,1,3500,3500,3500,0.169,25522.013889
+110592,California State University-Los Angeles,2012,CA,3,1,8332,8201,9166,0.076,29739.656852
+476993,Medspa Academies,2014,UT,1,3,12000,9000,7666,0,40318.490291
+229656,Vogue College of Cosmetology-McAllen,2014,TX,1,3,5500,PrivacySuppressed,PrivacySuppressed,0,18769.891304
+132879,Johnson University Florida,2010,FL,3,2,11000,10125,9500,NULL,43554.773756
+47503312,Relay Graduate School of Education - Dallas-Fort Worth,2020,TX,0,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0360,NULL
+456001,Advanced Welding Institute,2014,VT,1,3,8769,PrivacySuppressed,PrivacySuppressed,0.238,38996.141176
+212443,Evangelical Theological Seminary,2010,PA,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,PrivacySuppressed
+212054,Drexel University,2020,PA,3,2,19039,21369,20296,0.0190,NULL
+420255,Escuela de Peritos Electricistas de Isabela Inc,2012,PR,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,12833.09
+433013,Career Networks Institute,2010,CA,1,3,9378,9500,9125,NULL,31859.402062
+168847,Baker College,2016,MI,2,2,12091,14586,12000,0.167,33870.42198
+367097,Pinnacle Career Institute-Lawrence,2010,KS,1,3,8702,PrivacySuppressed,PrivacySuppressed,NULL,22334.939873
+454722,Academy of Esthetics and Cosmetology,2012,CA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.4,21794
+440855,Milan Institute-Amarillo,2012,TX,1,3,9235,7676,5640,0.222,19848.978193
+236896,Walla Walla University,2012,WA,3,2,19250,17500,15000,0.046,76781.813924
+449481,Dragon Rises College of Oriental Medicine,2012,FL,4,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,PrivacySuppressed
+453109,Pinnacle Career Institute-North Kansas City,2018,MO,1,3,8626,7917,6942,0.104,NULL
+196884,Union Theological Seminary in the City of New York,2016,NY,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.09,NULL
+483887,Mind Body Institute,2020,TN,1,3,PrivacySuppressed,7389,PrivacySuppressed,0.0470,NULL
+373605,Jonesville Beauty School,2010,LA,1,3,9500,5500,5500,NULL,40340.918478
+198233,Catawba Valley Community College,2016,NC,2,1,6000,4750.5,4000,0.214,28081.927806
+450605,Empire Beauty School-North Hills,2018,PA,1,3,8531,8028,8068,0.143,NULL
+214704,Pennsylvania State University-Penn State Berks,2014,PA,3,1,17118,19960,20500,0.057,80462.723188
+447908,Florida Academy of Health & Beauty,2018,FL,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.254,NULL
+240505,Casper College,2020,WY,2,1,7000,6500,5500,0.1270,NULL
+468893,Paul Mitchell the School-New Orleans,2016,LA,1,3,9500,9833,9830,0.115,35292.187063
+166869,MGH Institute of Health Professions,2016,MA,3,2,25000,25000,15000,0.013,56946.257642
+226587,McMurry University,2018,TX,3,2,14750,13826,14000,0.146,NULL
+448594,West Hills College-Lemoore,2012,CA,2,1,4500,PrivacySuppressed,PrivacySuppressed,0.28,23220.939234
+134228,Fort Pierce Beauty Academy,2014,FL,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,14050.169666
+120290,Ohlone College,2010,CA,2,1,5500,4750,5500,NULL,19926.588146
+458964,Strayer University-South Carolina,2012,SC,3,3,6000,7000,9500,0.151,22714.691539
+189422,Bramson ORT College,2010,NY,2,2,2750,PrivacySuppressed,PrivacySuppressed,NULL,14548.101519
+190761,Dominican University New York,2012,NY,3,2,14125,14250,13625,0.098,65963.2364
+446109,Cambridge College of Healthcare & Technology,2010,FL,1,3,5920,PrivacySuppressed,PrivacySuppressed,NULL,16989.847328
+432269,CET-El Paso,2014,TX,1,2,5200,5322,5500,0.246,15531.354459
+413866,ITT Technical Institute-Greenville,2012,SC,2,3,9500,11500,10996.5,0.286,23408.681196
+157289,University of Louisville,2010,KY,3,1,10121,8991,7500,NULL,56414.516863
+480471,UEI College-Stockton,2018,CA,1,3,9500,9499,5500,0.116,NULL
+181853,York University,2018,NE,3,2,9775,12750,14600,0.167,NULL
+419703,Automeca Technical College-Bayamon,2018,PR,1,3,2550,PrivacySuppressed,PrivacySuppressed,0.13,NULL
+457624,Southern Worcester County Regional Vocational School District,2016,MA,1,1,PrivacySuppressed,PrivacySuppressed,5500,0.123,52194.745098
+146612,Lewis University,2018,IL,3,2,19805,19625,19500,0.038,NULL
+210076,Pioneer Pacific College,2012,OR,2,3,14453,13991,9500,0.217,29347.275937
+179715,North Central Missouri College,2016,MO,2,1,8213,7759,5500,0.163,36401.749153
+383367,Greater Altoona Career & Technology Center,2010,PA,1,1,9080,PrivacySuppressed,PrivacySuppressed,NULL,26521.742268
+436836,University of Connecticut-Stamford,2018,CT,3,1,18500,19500,19500,0.023,NULL
+443410,DigiPen Institute of Technology,2016,WA,3,3,26626,19250,21750,0.022,80842.318801
+128577,Asnuntuck Community College,2016,CT,1,1,6000,4525.5,5500,0.147,27026.583262
+459365,Unity Cosmetology College,2016,IL,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.131,30188.5
+182306,Great Basin College,2010,NV,2,1,5232.5,5500,4000,NULL,30101.856618
+152248,Purdue University-Calumet Campus,2014,IN,3,1,13965,12500,12000,0.094,51506.114431
+204486,University of Northwestern Ohio,2020,OH,2,2,12000,12000,12000,0.1200,NULL
+165866,Framingham State University,2014,MA,3,1,12500,15500,15000,0.05,73318.813157
+223922,Clarendon College,2016,TX,1,1,5541.5,5500,5493,0.08,31081.105409
+172671,West Shore Community College,2010,MI,2,1,3455,3368,3500,NULL,25238.781655
+455974,South Texas Training Center,2010,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,14497.367347
+230728,Utah State University,2010,UT,3,1,5500,5500,5500,NULL,46132.782032
+240790,Northern Marianas College,2012,MP,2,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,16680.661673
+419332,Forbes Road Career and Technology Center,2016,PA,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.125,PrivacySuppressed
+166133,Holyoke Community College,2020,MA,2,1,2500,5500,7168,0.0950,NULL
+15492502,Columbus Technical Campus,2020,KS,0,1,5358,5500,5500,0.1110,NULL
+248846,FIDM-Fashion Institute of Design & Merchandising-San Diego,2016,CA,2,3,15700,12500,12000,0.071,70469.31348
+448983,Harris School of Business-Linwood Campus,2010,NJ,1,3,6250,7250,6349.5,NULL,20509.189178
+419332,Forbes Road Career and Technology Center,2012,PA,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,37389.421053
+181303,Metropolitan Community College Area,2018,NE,2,1,3861,4434,4128,0.147,NULL
+476799,Unitek College,2012,CA,1,3,9500,PrivacySuppressed,PrivacySuppressed,0,40359.76
+461041,Star Career Academy-Audubon,2014,PA,1,3,8380,9079,7600,0.104,17078.812213
+240338,Wisconsin Lutheran College,2010,WI,3,2,11602.5,12625,9500,NULL,67574.75969
+151388,Indiana University-East,2014,IN,3,1,11700.5,11000,10944,0.132,44649.077708
+10236809,Troy University-Support Sites,2012,GA,0,1,9500,10000,9500,0.141,34638.173908
+190512,CUNY Bernard M Baruch College,2014,NY,3,1,7000,7430,10500,0.04,28030.563783
+439455,MDT College of Health Sciences,2016,IL,1,3,14250,PrivacySuppressed,PrivacySuppressed,0.126,15579.954315
+119137,Moorpark College,2010,CA,2,1,5318.5,4500,5500,NULL,24091.12438
+484330,Ross Medical Education Center-Owensboro,2018,KY,1,3,9500,5500,5500,0.233,NULL
+449764,Visible Music College,2016,TN,3,2,10875,PrivacySuppressed,PrivacySuppressed,0.142,45998.315068
+232052,Eastern Shore Community College,2018,VA,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+220640,Tennessee College of Applied Technology-Livingston,2020,TN,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+454810,Auguste Escoffier School of Culinary Arts-Boulder,2014,CO,1,3,9500,7654.5,7654,0.149,40156.213884
+487658,Academy of Interactive Entertainment,2016,LA,1,2,10556,PrivacySuppressed,PrivacySuppressed,NULL,46295.559524
+420556,Columbia Gorge Community College,2018,OR,2,1,11000,10625,4375,0.09,NULL
+444404,The Beauty Institute,2010,FL,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,14640.864407
+130989,Goldey-Beacom College,2020,DE,3,2,11613,13615,16701,0.0930,NULL
+403487,Wabash Valley College,2012,IL,2,1,2562.5,3500,3500,0.166,26673.459227
+419509,University of Phoenix-Sacramento Valley Campus,2012,CA,3,3,5821,14438,16813,0.26,22658.288176
+13508114,Keiser University -  Clearwater,2018,FL,0,2,13438,13737,11501,0.064,NULL
+195128,Russell Sage College,2012,NY,3,2,14500,15800,15000,0.087,52141.493837
+377485,Virginia Beach City Public Schools School of Practical Nursing,2012,VA,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,21750.846154
+105297,Dine College,2012,AZ,2,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,16117.709155
+444529,Stellar Career College,2016,CA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.175,16439.623711
+449870,University of the West,2018,CA,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.093,NULL
+172200,Schoolcraft Community College District,2020,MI,2,1,5950,5500,5500,0.0990,NULL
+208017,Virgil's Beauty College,2018,OK,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+453455,American National University-Dayton,2016,OH,2,3,12750,14777,9248,0.124,18631.943946
+44125601,Design's School of Cosmetology,2018,CA,0,3,6139,5653,6333,0.131,NULL
+230366,Eagle Gate College-Murray,2016,UT,1,3,12931,12931,12380.5,0.227,30222.907767
+178828,Poplar Bluff Technical Career Center,2012,MO,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.3,21508.973451
+214476,Heritage Valley Kennedy School of Nursing,2014,PA,1,2,9500,PrivacySuppressed,PrivacySuppressed,0.105,39510.946429
+459231,Paul Mitchell the School-East Bay,2018,CA,1,3,10556,10556,10556,0.084,NULL
+185466,Rizzieri Aveda School for Beauty and Wellness,2010,NJ,1,3,6333,5500,5500,NULL,49197.222798
+166018,Hampshire College,2014,MA,3,2,17749,17324.5,15750,0.019,81243.751236
+449454,Academy of Natural Therapy Inc,2012,CO,1,3,9500,PrivacySuppressed,PrivacySuppressed,0.1,31894.176471
+181002,Creighton University,2014,NE,3,2,19500,25000,20490,0.02,107155.79947
+196653,Trocaire College,2020,NY,2,2,18522,16248,14344,0.0470,NULL
+12268513,San Joaquin Valley College - San Diego,2014,CA,0,3,11655.5,12000,12000,0.18,23328.662397
+157711,Somerset Community College,2010,KY,1,1,4198,4000,4000,NULL,21963.740841
+36520402,Vista College Lubbock,2016,TX,0,3,11919,12987,11342,0.253,20003.986853
+15631005,PJ's College of Cosmetology- Louisville,2018,KY,0,3,7283,6333,5500,0.092,NULL
+229425,UCAS University of Cosmetology Arts & Sciences-McAllen,2020,TX,1,3,6163,5533,4865,0.0210,NULL
+104586,Embry-Riddle Aeronautical University-Prescott,2012,AZ,3,2,6750,7500,11125,0.073,53251.832414
+135063,Jones College-Jacksonville,2012,FL,2,2,13586,PrivacySuppressed,PrivacySuppressed,0.145,16824.78209
+375489,Brown Mackie College-Findlay,2014,OH,1,3,9607.5,13065.5,12000,0.181,21698.28217
+152390,Saint Mary's College,2010,IN,3,2,21574,22125,21125,NULL,99955.077049
+214166,Mount Aloysius College,2016,PA,3,2,17000,18500,14987.5,0.075,57767.816583
+44867301,Rasmussen University-Aurora,2016,IL,0,3,8442.5,12113,12000,0.081,35850.098826
+488004,Central Yeshiva Beth Joseph,2018,NY,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+44467101,Industrial Technical College - Naguabo,2020,PR,0,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+100937,Birmingham-Southern College,2018,AL,3,2,15250,19000,18500,0.048,NULL
+444583,Escuela Hotelera de San Juan,2016,PR,1,3,3500,PrivacySuppressed,PrivacySuppressed,0.046,13032.431404
+381796,Kaplan College-Denver,2012,CO,1,3,9078,PrivacySuppressed,PrivacySuppressed,NULL,22534.616667
+177940,Lincoln University,2014,MO,3,1,10041.5,10974.5,11050.5,0.207,35677.327485
+207786,Southern School of Beauty Inc,2012,OK,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.227,19884.955882
+226903,Southern Careers Institute-Austin,2016,TX,1,3,7917,7917,7125,0.187,19220.150898
+213914,Vet Tech Institute,2016,PA,2,3,10796,10548.5,10795,0.06,53143.96468
+115931,Institute for Business and Technology,2016,CA,1,3,7600,7600,6333,0.212,26872.428653
+492209,Reiss-Davis Graduate School,2020,CA,4,2,NULL,NULL,NULL,NULL,NULL
+418083,Rockland County BOCES-Practical Nursing Program,2018,NY,1,1,8400,PrivacySuppressed,PrivacySuppressed,0.093,NULL
+175856,Jackson State University,2012,MS,3,1,13000,14000,16000,0.173,25394.21315
+369686,Northwest Educational Center,2010,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,11647.578348
+455336,MediaTech Institute-Dallas,2010,TX,1,3,7632,4419,4419,NULL,42712.452333
+243744,Stanford University,2016,CA,3,2,7500,6907,15401.5,0.01,80447.906699
+232867,New River Community College,2020,VA,2,1,7337,5500,5500,0.1200,NULL
+204617,Ohio Dominican University,2016,OH,3,2,19515,19750,18717,0.083,67619.209607
+106342,Lyon College,2020,AR,3,2,9500,11000,11185,0.0820,NULL
+454245,Chamberlain University-Arizona,2020,AZ,3,3,16577,15795,17250,0.0260,NULL
+164313,Wor-Wic Community College,2018,MD,2,1,3500,4500,3500,0.125,NULL
+101286,George C Wallace Community College-Dothan,2016,AL,2,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,19125.651634
+165866,Framingham State University,2020,MA,3,1,17500,17500,16696,0.0380,NULL
+418445,Jefferson County Dubois Area Vocational Technical Practical Nursing Program,2018,PA,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.123,NULL
+170675,Lawrence Technological University,2016,MI,3,2,21250,20672,19000,0.058,76273.716952
+156967,Summit Salon Academy-Lexington,2010,KY,1,3,8500,PrivacySuppressed,PrivacySuppressed,NULL,20580.855263
+485290,National American University-Harold D. Buckingham Graduate School,2018,SD,4,3,12968,14133,15969,0.2,NULL
+417646,Saline County Career Center,2016,MO,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.112,39971.487805
+145691,Illinois College,2012,IL,3,2,15100,19080,19000,0.084,70735.859107
+203465,Kent State University at Stark,2020,OH,2,1,16500,17838,17500,0.0580,NULL
+45133401,Academy of Hair Design - Austin,2020,TX,0,3,7917,7917,7125,0.0850,NULL
+117274,Lassen Community College,2014,CA,2,1,5500,5500,5500,0.323,21583.525573
+164207,Washington Bible College-Capital Bible Seminary,2010,MD,3,2,9500,12250,12500,NULL,48135.716763
+381486,Faust Institute of Cosmetology-Spirit Lake,2020,IA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.0930,NULL
+375744,Kiamichi Technology Center-Poteau,2012,OK,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,15878.888776
+233091,Miller-Motte Technical College-Lynchburg,2010,VA,2,3,6982,9500,9463,NULL,19505.615048
+238263,Madison Area Technical College,2012,WI,1,1,6003,5800,5500,0.127,37920.079409
+132657,Lynn University,2018,FL,3,2,11285,10750,9488,0.049,NULL
+106102,Western International University,2014,AZ,3,3,16643,17873,12500,0.147,50890.727941
+414461,Mech-Tech College,2014,PR,1,3,3800,5000,7574.5,0.05,13557.079609
+140720,Paine College,2012,GA,3,2,11000,13500,12625,0.218,28206.507273
+480329,Altierus Career College-Woodbridge,2016,VA,1,2,6194,5500,5697.5,0.301,25061.775442
+459550,Summit Salon Academy,2014,WA,1,3,9830.5,12000,12000,0.069,42306.957547
+179548,Stephens College,2012,MO,3,2,13894.5,16500,15320,0.098,62446.384798
+14082701,Portfolio Center - Waltham,2012,MA,0,3,9500,9500,5506.5,0.063,44167.165414
+16947907,Davenport University-Midland Location,2010,MI,0,2,11270,12500,10250,NULL,29739.993353
+233754,Virginia Peninsula Community College,2014,VA,2,1,5500,4681,4927,0.124,27555.24565
+475422,Finger Lakes Health College of Nursing & Health Sciences,2012,NY,1,2,5500,5500,5500,0.225,39484.710426
+188182,University of the Southwest,2016,NM,3,2,9500,9500,10500,0.104,48745.138418
+228653,The University of Texas Medical Branch at Galveston,2010,TX,3,1,16250,12500,12500,NULL,44811.646953
+211006,Automotive Training Center-Exton,2010,PA,1,3,11988,12959.5,13000,NULL,46508.681957
+204635,Ohio Northern University,2014,OH,3,2,25750,27000,25000,0.025,84418.914182
+232265,Hampton University,2014,VA,3,2,20000,22250,19500,0.086,69322.631777
+242981,National University College-Arecibo,2012,PR,2,3,3500,3500,3500,0.198,12103.144821
+169576,Detroit Business Institute-Downriver,2014,MI,1,3,8708,PrivacySuppressed,PrivacySuppressed,0.082,25676.081301
+220312,Hiwassee College,2018,TN,3,2,10750,9500,10800,NULL,NULL
+110574,California State University-East Bay,2010,CA,3,1,10143,9000,9834,NULL,39246.88849
+215114,Cairn University-Langhorne,2018,PA,3,2,21613,24907,22999,0.075,NULL
+446136,Career Quest Learning Centers-Lansing,2018,MI,1,3,9500,9500,9500,0.115,NULL
+454555,Milan Institute of Cosmetology-Reno,2020,NV,1,3,6222,6078,4584,0.1240,NULL
+164678,Bay State School of Technology,2010,MA,1,3,8670,8789,8750,NULL,24053.470721
+151102,Purdue University Fort Wayne,2018,IN,3,1,11000,12737,11631,0.075,NULL
+414124,Motoring Technical Training Institute,2018,MA,1,3,9253,8550,5500,0.15,NULL
+205887,Stautzenberger College-Maumee,2020,OH,1,3,13160,13000,12076,0.1170,NULL
+455938,Education and Technology Institute,2014,PA,1,2,NULL,NULL,NULL,NULL,PrivacySuppressed
+466189,National American University-Colorado Springs South,2018,CO,2,3,12968,14133,15969,0.2,NULL
+443298,Trend Barber College,2018,TX,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.111,NULL
+193070,Mesivtha Tifereth Jerusalem of America,2020,NY,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+131496,Georgetown University,2018,DC,3,2,11478,14500,16000,0.012,NULL
+440846,Milan Institute-Boise,2012,ID,1,3,9235,7676,5640,0.222,19848.978193
+217086,Yorktowne Business Institute,2010,PA,2,3,14250,14750,12000,NULL,26904.920635
+445771,Everest College-North Aurora,2012,IL,1,3,9500,9500,9500,0.19,19006.74963
+11046802,Alliant International University-Los Angeles,2010,CA,0,2,2000,2000,6250,NULL,21633.72905
+178679,Ozark Christian College,2014,MO,3,2,8000,10000,8125,0.051,60424.620419
+137351,University of South Florida,2018,FL,3,1,15722,15565,15296,0.012,NULL
+459134,Northern California Institute of Cosmetology Inc,2014,CA,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.125,17818.76087
+183974,Centenary University,2014,NJ,3,2,16500,20000,18250,0.046,71148.339309
+210155,Southwestern Oregon Community College,2018,OR,2,1,7678,7834,5633,0.173,NULL
+454175,Dade Medical College-Miami Lakes,2014,FL,2,3,11258,15250,20890,0.083,22393.045422
+157401,Murray State University,2016,KY,3,1,15650,14572,14250,0.094,59538.608738
+46163403,Greater Sacramento Urban League,2012,CA,0,1,NULL,NULL,NULL,0,8133.3777778
+133526,Edward Waters University,2020,FL,3,2,11686,9875,7500,0.2660,NULL
+367875,Brewster Technical College,2010,FL,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,11759.368071
+478953,Bellus Academy,2012,KS,1,3,8651,8769,7917,0.07,37771.408926
+197744,Yeshivath Zichron Moshe,2012,NY,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,31781.121739
+459204,Unitek College,2010,CA,1,3,6730,9061,6000,NULL,41434.607767
+431707,Norwich Technical High School/Adult Licensed Practical Nurse Program,2014,CT,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,27951.575758
+405872,Carroll Community College,2020,MD,2,1,8316,9105,5500,0.0990,NULL
+234401,Beauty Academy,2010,WA,1,3,8022.5,PrivacySuppressed,PrivacySuppressed,NULL,29774.990826
+118912,MiraCosta College,2018,CA,1,1,8804,6000,4375,0.139,NULL
+139357,Columbus Technical College,2012,GA,1,1,4500,5076,2000,0,20383.568332
+420404,ITT Technical Institute-Getzville,2010,NY,2,3,4000,5000,5000,NULL,23676.846937
+149763,Oak Point University,2020,IL,3,2,25000,22297,15000,0.0240,NULL
+10236809,Troy University-Support Sites,2016,GA,0,1,14250,15000,13502,0.114,42757.394639
+200305,North Dakota State College of Science,2014,ND,2,1,9262,10342.5,9250,0.111,59679.81796
+105525,Pima Community College,2016,AZ,1,1,4000,3500,3000,0.193,26934.137769
+36520403,Computer Career Center-Las Cruces,2016,NM,0,3,11919,12987,11342,0.253,20003.986853
+219851,Austin's Beauty College Inc,2016,TN,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,25637.060606
+22828201,Southwest School of Business and Technical Careers-South Texas,2012,TX,0,3,5879,PrivacySuppressed,PrivacySuppressed,0.428,15126.698795
+196097,Stony Brook University,2012,NY,3,1,13888,15000,14500,0.053,62279.932249
+160524,Remington College-Lafayette Campus,2018,LA,1,2,9500,11996,11645,0.142,NULL
+421708,Arizona College of Nursing-Tempe,2014,AZ,1,3,9419,9500,9500,0.206,19851.442453
+460589,Salter School-New Bedford,2010,MA,1,3,6428,8506,8904,NULL,22695.10282
+419183,Central California School of Continuing Education,2020,CA,1,3,4783,PrivacySuppressed,PrivacySuppressed,0.1160,NULL
+232593,Suffolk Public Schools-Sentara Obici Hospital School of Practical Nursing,2010,VA,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,29155.307692
+455211,Casal Institute of Nevada,2012,NV,1,3,9500,9922,10249.5,0.235,34493.10303
+230603,Southern Utah University,2016,UT,3,1,8000,6397,5500,0.059,52281.385171
+165264,Laboure College of Healthcare,2014,MA,2,2,17500,12820,17500,0.049,46798.529412
+447120,Brightwood College-Fresno,2014,CA,1,3,8749,8883,9500,0.161,21503.148541
+216667,Washington & Jefferson College,2012,PA,3,2,27000,27000,26099,0.041,90250.463047
+177968,Lindenwood University,2020,MO,3,2,21875,20825,20000,0.0400,NULL
+197674,Yeshiva of Nitra Rabbinical College,2016,NY,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,24155.222222
+430670,San Juan Bautista School of Medicine,2012,PR,4,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.078,13146.470588
+479983,Elevate Salon Institute-Westminster,2014,CO,1,3,7930,PrivacySuppressed,PrivacySuppressed,0,24414.445783
+246017,Central Technology Center,2010,OK,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,16669.041667
+106883,East Arkansas Community College,2012,AR,1,1,1750,PrivacySuppressed,PrivacySuppressed,0.373,17339.92129
+184348,Drew University,2010,NJ,3,2,14875,18433,14625,NULL,87524.871122
+388043,National College-Nashville,2012,TN,2,3,11323.5,15637,13272.5,0.098,13897.280261
+189565,Bryant & Stratton College-Syracuse North,2018,NY,2,3,9500,12550,12000,0.196,NULL
+217837,Northeastern Technical College,2020,SC,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+417178,Albert I Prince Technical High School,2012,CT,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,24702.333333
+211334,Butler Beauty Academy,2012,PA,1,3,8004,9500,8028,0.266,25402.026178
+122506,San Francisco Conservatory of Music,2020,CA,3,2,PrivacySuppressed,PrivacySuppressed,19500,0.0410,NULL
+44376603,Strayer University-Knoxville Campus,2018,TN,0,3,10364,20834,22292,0.104,NULL
+247065,Beckfield College-Florence,2016,KY,2,3,12667,16735,13168,0.226,24390.543241
+450049,The Art Institute of Salt Lake City,2014,UT,3,3,9607.5,13065.5,12000,0.181,21698.28217
+374990,Continental School of Beauty Culture-Olean,2014,NY,1,3,8325,PrivacySuppressed,PrivacySuppressed,0.064,20514.680628
+200013,Rasmussen University-North Dakota,2012,ND,2,3,6639,10132,9698,0.185,31014.69772
+436818,University of Connecticut-Waterbury Campus,2018,CT,3,1,18500,19500,19500,0.023,NULL
+439136,ITT Technical Institute-Wilmington,2010,MA,2,3,4000,5000,5000,NULL,23676.846937
+366401,Las Positas College,2014,CA,2,1,5524,3557.5,4500,0.122,23002.776197
+447980,Nuvo College of Cosmetology,2016,MI,1,3,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.128,27697.245902
+107318,Arkansas State University Mid-South,2010,AR,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,15633.033695
+480347,International School of Cosmetology,2016,AZ,1,3,11693,10556,10556,0.073,33485.48172
+451264,Millennium Training Institute,2012,MA,1,3,5650,PrivacySuppressed,PrivacySuppressed,0.36,16409.429603
+188438,SUNY Adirondack,2014,NY,2,1,5500,5500,5500,0.128,42527.2187
+199078,College of Wilmington,2014,NC,1,3,6650,7728.5,7811,0.25,20299.299539
+126669,Colorado Christian University,2018,CO,3,2,11463,16425,16500,0.067,NULL
+190956,Belanger School of Nursing,2014,NY,2,2,13341,PrivacySuppressed,PrivacySuppressed,0.023,43209.842593
+179052,Rolla Technical Institute/Center,2012,MO,1,1,9500,PrivacySuppressed,PrivacySuppressed,0.202,35173.289474
+225423,Houston Community College,2014,TX,2,1,5250,4750,5250,0.222,21920.422589
+204796,Ohio State University-Main Campus,2020,OH,3,1,12643,13000,15984,0.0360,NULL
+192004,Jamestown Business College,2018,NY,2,3,12000,PrivacySuppressed,PrivacySuppressed,0.142,NULL
+219587,Arnolds Beauty School,2012,TN,1,3,5500,PrivacySuppressed,PrivacySuppressed,0.121,30152.776471
+198729,James Sprunt Community College,2012,NC,1,1,4862.5,PrivacySuppressed,PrivacySuppressed,0.133,17590.061224
+240480,University of Wisconsin-Stevens Point,2012,WI,3,1,12184,16259.5,16500,0.033,65769.285747
+445416,Kaplan University-Council Bluffs Campus,2010,IA,2,3,9500,12372,12334.5,NULL,24651.262881
+449180,Regency Beauty Institute-Peoria,2012,IL,1,3,9500,9000,8375,0.097,22716.593006
+113573,College of the Desert,2020,CA,2,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0.1780,NULL
+137962,Trinity College of Florida,2016,FL,3,2,15125,PrivacySuppressed,PrivacySuppressed,0.129,40971.186992
+439491,Blue Cliff College-Lafayette,2016,LA,1,3,9500,9500,8217.5,0.145,14968.348601
+198039,Blue Ridge Community College,2010,NC,2,1,4156.5,PrivacySuppressed,PrivacySuppressed,NULL,22790.593664
+236708,Spokane Falls Community College,2012,WA,2,1,5949,5500,5000,0.207,25082.614732
+179265,University of Health Sciences and Pharmacy in St. Louis,2018,MO,3,2,13500,19500,19500,0.007,NULL
+433387,Western Governors University,2020,UT,3,2,7219,8540,9602,0.0300,NULL
+387925,Cortiva Institute,2020,FL,1,3,6500,6111,5890,0.1500,NULL
+417275,Stratford School for Aviation Maintenance Technicians,2020,CT,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,NULL
+418250,Washington County Career Center-Adult Technical Training,2016,OH,1,1,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,NULL,21124.648352
+443924,University of Phoenix-Little Rock Campus,2010,AR,3,3,4750,9500,10500,NULL,24918.303962
+217615,Aiken Technical College,2012,SC,1,1,3500,3663,3646,0,25766.776753
+218353,Midlands Technical College,2014,SC,2,1,4500,4500,4367.5,0.162,32284.28636
+112394,University of Silicon Valley,2016,CA,3,3,19000,15122.5,19000.5,0.131,56294.35274
+212160,Edinboro University of Pennsylvania,2016,PA,3,1,17567,17750,16153.5,0.092,59561.475758
+207458,Oklahoma City University,2020,OK,3,2,15000,15750,15750,0.0260,NULL
+404082,Baker College of Clinton Township,2010,MI,2,2,5937,6270,5880,NULL,27648.242682
+197692,Yeshivath Shaar Hatorah,2020,NY,3,2,PrivacySuppressed,PrivacySuppressed,PrivacySuppressed,0,NULL
